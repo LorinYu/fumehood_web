@@ -1,0 +1,45 @@
+<extend name="base" />
+        <block name="container">        
+                <div class="container">
+                        <div class="panel panel-primary">
+                                <div class="panel-heading">
+                                        编辑用户
+                                </div>
+                                <div class="panel-body">
+                                        <form method="post">
+                                        <div class="form-group">
+                                                <label class="col-md-2">编辑姓名：</label>
+                                                <div class="col-md-10">
+                                                        <if condition="$userdata['user_name'] eq admin">
+                                                        <input class="form-control input-lg" type="text" name="username" value="{$userdata.user_name}" autocomplete="off" style="margin-bottom: 10px;" readonly/>
+                                                        <else />        
+                                                        <input class="form-control input-lg" type="text" name="username" value="{$userdata.user_name}" autocomplete="off" style="margin-bottom: 10px;"/>
+                                                        </if>
+                                                </div>
+                                        </div>
+                                        <div class="form-group">
+                                                <label class="col-md-2 control-label">编辑密码：</label>
+                                                <div class="col-md-10">
+                                                        <input class="form-control input-lg" type="text" name="password" value="{$userdata.user_password}" autocomplete="off"  style="margin-bottom: 10px;"/>
+                                                </div>
+                                        </div>
+                                        <div class="form-group">
+                                        </div>
+                                        <div class="form-group">
+                                                <div class="col-md-4">
+                                                        <input class="btn btn-lg btn-primary" type="submit" class="login-btn" value="确 定" style="margin-left: 190px; margin-right: 100px;"/>
+                                                </div>
+                                                <div class="col-md-6">
+                                                        <a class="btn btn-lg btn-danger" onclick="window.history.go(-1)">返 回</a>
+                                                </div>
+                                        </form>
+                                </div>
+                        </div>
+
+
+
+
+                </div>
+        </block>
+        <block name="jsinbody">
+        </block>

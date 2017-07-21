@@ -1,0 +1,6423 @@
+实验观察
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.25
+ki=0.00
+kd=0.00
+ speed = 41
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 132
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 188
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 213
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 222
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 231
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.8
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 239
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 230
+highth=49.9
+Standard=235.0
+Add=2.0
+pwm=33
+ speed = 230
+highth=49.9
+Standard=213.6
+Add=-5.0
+pwm=28
+ speed = 235
+highth=49.5
+Standard=211.8
+Add=-2.0
+pwm=26
+ speed = 230
+highth=49.9
+Standard=213.4
+Add=2.0
+pwm=28
+ speed = 220
+highth=49.9
+Standard=213.5
+Add=3.0
+pwm=31
+ speed = 223
+highth=49.9
+Standard=213.5
+Add=-1.0
+pwm=30
+ speed = 232
+highth=49.9
+Standard=213.4
+Add=-2.0
+pwm=28
+ speed = 230
+highth=49.9
+Standard=213.4
+Add=0.0
+pwm=28
+ speed = 226
+highth=49.9
+Standard=213.4
+Add=1.0
+pwm=29
+ speed = 219
+highth=49.9
+Standard=213.5
+Add=2.0
+pwm=31
+ speed = 223
+highth=49.9
+Standard=213.4
+Add=-1.0
+pwm=30
+ speed = 231
+highth=49.9
+Standard=213.4
+Add=-2.0
+pwm=28
+ speed = 233
+highth=49.8
+Standard=213.2
+Add=-1.0
+pwm=27
+ speed = 227
+highth=49.8
+Standard=213.1
+Add=1.0
+pwm=28
+ speed = 223
+highth=49.9 speed = 223
+
+Standard=213.4
+Add=1.0
+pwm=29
+ speed = 224
+highth=49.5
+Standard=211.6
+Add=-1.0
+pwm=28
+ speed = 222
+highth=49.5
+Standard=211.6
+Add=1.0
+pwm=29
+ speed = 221
+highth=49.5
+Standard=211.7
+Add=0.0
+pwm=29
+ speed = 223
+highth=49.9
+Standard=213.3
+Add=0.0
+pwm=29
+ speed = 221
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.35
+ki=0.00
+kd=0.00
+ speed = 43
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 134
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 193
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 220
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 230
+highth=49.9
+Standard=235.0
+Add=1.0 
+
+pwm=32
+ speed = 235
+highth=49.9
+Standard=213.3
+Add=-9.0 
+
+pwm=23
+ speed = 232
+highth=49.9
+Standard=213.4
+Add=1.0 
+
+pwm=24
+ speed = 212
+highth=49.9
+Standard=213.3
+pwm=24
+ speed = 211
+highth=50.3
+Standard=215.1
+Add=1.0 
+
+pwm=25
+ speed = 212
+highth=49.9
+Standard=213.4
+pwm=25
+ speed = 214
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 212
+highth=49.5
+Standard=211.7
+pwm=25
+ speed = 209
+highth=49.5
+Standard=211.7
+pwm=25
+ speed = 208
+highth=50.2
+Standard=214.9
+Add=1.0 
+
+pwm=26
+ speed = 212
+highth=49.9
+Standard=213.3
+pwm=26
+ speed = 217
+highth=49.4
+Standard=211.4
+Add=-2.0 
+
+pwm=24
+ speed = 218
+highth=49.9
+Standard=213.2
+Add=0.0 
+
+pwm=24
+ speed = 212
+highth=50.3
+Standard=214.9
+pwm=24
+ speed = 206
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.35
+ki=0.00
+kd=0.00
+ speed = 23
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 120
+highth=47.9
+Standard=235.0
+pwm=31
+ speed = 187
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 219
+Standard=235.0
+pwm=31
+ speed = 231
+Standard=235.0
+pwm=31
+ speed = 234
+Standard=235.0
+pwm=31
+ speed = 235
+Standard=235.0
+pwm=31
+ speed = 235
+Standard=235.0
+pwm=31
+ speed = 231
+Standard=235.0
+pwm=31
+ speed = 231
+Standard=235.0
+pwm=31
+ speed = 233
+Standard=235.0
+pwm=31
+ speed = 231
+Standard=235.0
+pwm=31
+ speed = 234
+Standard=235.0
+pwm=31
+ speed = 235
+Standard=235.0
+pwm=31
+ speed = 234
+Standard=235.0
+pwm=31
+ speed = 233
+Standard=235.0
+pwm=31
+ speed = 235
+Standard=235.0
+pwm=31
+ speed = 233
+Standard=235.0
+pwm=31
+ speed = 228
+Standard=235.0
+Add=2.0 
+
+pwm=33
+ speed = 235
+Standard=211.5
+Add=-11.0 
+
+pwm=22
+ speed = 226
+Standard=211.5
+Add=3.0 
+
+pwm=25
+ speed = 212
+Standard=211.5
+pwm=25
+ speed = 210
+Standard=211.5
+pwm=25
+ speed = 215
+Standard=211.5
+pwm=25
+ speed = 213
+Standard=211.5
+pwm=25
+ speed = 215
+Standard=211.5
+pwm=25
+ speed = 209
+Standard=211.5
+pwm=25
+ speed = 209
+Standard=211.5
+pwm=25
+ speed = 211
+Standard=211.5
+pwm=25
+ speed = 213
+Standard=211.5
+pwm=25
+ speed = 210
+Standard=211.5
+pwm=25
+ speed = 207
+Standard=211.5
+Add=1.0 
+
+pwm=26
+ speed = 211
+Standard=211.5
+pwm=26
+ speed = 210
+Standard=211.5
+pwm=26
+ speed = 213
+Standard=211.5
+pwm=26
+ speed = 213
+Standard=211.5
+pwm=26
+ speed = 213
+Standard=211.5
+pwm=26
+ speed = 215
+Standard=211.5
+pwm=26
+ speed = 217
+
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.35
+ki=0.00
+kd=0.00
+ speed = 24
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 121
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 184
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 216
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 231
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 239
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 239
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 242
+highth=49.9
+Standard=235.0
+Add=-1.0 
+
+pwm=30
+ speed = 242
+highth=49.9
+Standard=213.3
+Add=-8.0 
+
+pwm=22
+ speed = 234
+highth=49.9
+Standard=213.3
+Add=3.0 
+
+pwm=25
+ speed = 210
+highth=49.9
+Standard=213.3
+pwm=25
+ speed = 212
+highth=49.9
+Standard=213.3
+pwm=25
+ speed = 215
+highth=49.9
+Standard=213.3
+pwm=25
+ speed = 213
+highth=49.9
+Standard=213.3
+pwm=25
+ speed = 213
+highth=49.9
+Standard=213.3
+pwm=25
+ speed = 212
+highth=49.9
+Standard=213.3
+pwm=25
+ speed = 218
+highth=49.9
+Standard=213.3
+Add=-2.0 
+
+pwm=23
+ speed = 215
+highth=49.9
+Standard=213.3
+pwm=23
+ speed = 207
+highth=49.9
+Standard=213.3
+Add=3.0 
+
+pwm=26
+ speed = 203
+highth=49.9
+Standard=213.3
+Add=1.0 
+
+pwm=27
+ speed = 214
+
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.45
+ki=0.00
+kd=0.00
+ speed = 73
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 155
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 200
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 222
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 228
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 231
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 241
+highth=49.9
+Standard=235.0
+Add=-2.0 
+
+pwm=29
+ speed = 244
+highth=49.9
+Standard=213.3
+Add=-11.0 
+
+pwm=18
+ speed = 241
+highth=49.9
+Standard=213.3
+Add=1.0 
+
+pwm=19
+ speed = 210
+highth=49.9
+Standard=213.3
+pwm=19
+ speed = 194
+highth=49.9
+Standard=213.3
+Add=7.0 
+
+pwm=26
+ speed = 184
+highth=49.9
+Standard=213.3
+Add=4.0 
+
+pwm=30
+ speed = 198
+highth=49.9
+Standard=213.3
+Add=-6.0 
+
+pwm=24
+ speed = 216
+highth=49.9
+Standard=213.3
+pwm=24
+ speed = 208
+highth=49.9
+Standard=213.3
+Add=4.0 
+
+pwm=28
+ speed = 201
+highth=49.9
+Standard=213.3
+Add=3.0 
+
+ speed = 210pwm=31
+
+ speed = 222highth=49.9
+
+Standard=213.3
+Add=-9.0 
+
+pwm=22
+ speed = 214highth=49.9
+
+Standard=213.3
+pwm=22
+ speed = 205
+highth=49.9
+Standard=213.3
+Add=4.0 
+
+pwm=26
+ speed = 205
+highth=49.9
+Standard=213.3
+Add=0.0 
+
+pwm=26
+ speed = 209
+highth=49.9
+Standard=213.3
+Add=-2.0 
+
+pwm=24
+ speed = 212
+highth=49.9
+Standard=213.3
+pwm=24
+ speed = 212
+highth=49.9
+Standard=213.3
+pwm=24
+ speed = 211
+>>>  speed = 60
+ speed = 0
+ speed = 0
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.45
+ki=0.00
+kd=0.00
+ speed = 43
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 135
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 193
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 219
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 227
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 231
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 240
+highth=49.9
+Standard=235.0
+Add=-1.0 
+
+pwm=30
+ speed = 238
+highth=49.9
+Standard=213.5
+Add=-9.0 
+
+pwm=21
+ speed = 233
+highth=49.9
+Standard=213.5
+Add=2.0 
+
+pwm=23
+ speed = 212
+highth=49.9
+Standard=213.5
+pwm=23
+ speed = 209
+highth=49.9
+Standard=213.5
+Add=1.0 
+
+pwm=24
+ speed = 205
+highth=49.9
+Standard=213.5
+Add=2.0 
+
+pwm=26
+ speed = 207
+highth=49.9
+Standard=213.5
+Add=-1.0 
+
+pwm=25
+ speed = 215
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 215
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 213
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 214
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 212
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 213
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 213
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 214
+>>>  speed = 57
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.45
+ki=0.00
+kd=0.00
+ speed = 29highth=49.4
+
+Standard=235.0
+pwm=31
+ speed = 131
+highth=49.4
+Standard=235.0
+pwm=31
+ speed = 193
+highth=49.4
+Standard=235.0
+pwm=31
+ speed = 220
+highth=49.4
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.4
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.4
+Standard=235.0
+pwm=31
+ speed = 239
+highth=49.4
+Standard=235.0
+pwm=31
+ speed = 240
+highth=49.4
+Standard=235.0
+pwm=31
+ speed = 242
+highth=49.4
+Standard=235.0
+Add=-1.0 
+
+pwm=30
+ speed = 239
+highth=49.4
+Standard=211.2
+Add=-9.0 
+
+pwm=21
+ speed = 236
+highth=49.4
+Standard=211.2
+Add=1.0 
+
+pwm=22
+ speed = 212
+highth=49.4
+Standard=211.2
+pwm=22
+ speed = 203
+highth=49.4
+Standard=211.2
+Add=4.0 
+
+pwm=26
+ speed = 194
+highth=49.4
+Standard=211.2
+Add=4.0 
+
+pwm=30
+ speed = 204
+highth=49.4
+Standard=211.2
+Add=-4.0 
+
+pwm=26
+ speed = 220
+highth=49.4
+Standard=211.2
+Add=-7.0 
+
+pwm=19
+ speed = 218
+highth=49.4
+Standard=211.2
+Add=1.0 
+
+pwm=20
+ speed = 200
+highth=49.4
+Standard=211.2
+Add=8.0 
+
+pwm=28
+ speed = 193
+highth=49.4
+Standard=211.2
+Add=3.0 
+
+pwm=31
+ speed = 207
+highth=49.4
+Standard=211.2
+Add=-6.0 
+
+pwm=25
+ speed = 225
+highth=49.4
+Standard=211.2
+Add=-8.0 
+
+pwm=17
+ speed = 222
+highth=49.4
+Standard=211.2
+Add=1.0 
+
+pwm=18
+ speed = 201
+highth=49.4
+Standard=211.2
+Add=9.0 
+
+pwm=27
+ speed = 187
+highth=49.4
+Standard=211.2
+Add=6.0 
+
+pwm=33
+ speed = 197
+highth=49.4 speed = 225
+
+Standard=211.2
+Add=-17.0 
+
+pwm=16
+ speed = 215
+highth=49.4
+Standard=211.2
+pwm=16
+ speed = 189
+highth=49.4
+Standard=211.2
+Add=12.0 
+
+pwm=28
+ speed = 189
+highth=49.4
+Standard=211.2
+Add=0.0 
+
+pwm=28
+ speed = 212
+highth=49.4
+Standard=211.2
+pwm=28
+ speed = 220
+highth=49.4
+Standard=211.2
+Add=-4.0 
+
+pwm=24
+ speed = 219
+highth=49.4
+Standard=211.2
+Add=0.0 
+
+pwm=24
+ speed = 214
+highth=49.4
+Standard=211.2
+pwm=24
+ speed = 212
+highth=49.4
+Standard=211.2
+pwm=24
+ speed = 207
+highth=49.4
+Standard=211.2
+Add=2.0 
+
+pwm=26
+ speed = 209
+highth=49.4
+Standard=211.2
+pwm=26
+ speed = 213
+highth=49.4
+Standard=211.2
+pwm=26
+ speed = 215
+highth=49.4
+Standard=211.2
+pwm=26
+ speed = 215
+highth=49.4
+Standard=211.2
+pwm=26
+ speed = 219
+highth=49.4
+Standard=211.2
+Add=-2.0 
+
+pwm=24
+ speed = 220
+highth=49.4
+Standard=211.2
+Add=0.0 
+
+pwm=24
+ speed = 212
+highth=49.4
+Standard=211.2
+pwm=24
+ speed = 211
+highth=49.4
+Standard=211.2
+pwm=24
+ speed = 207
+highth=49.4
+Standard=211.2
+Add=2.0 
+
+pwm=26
+ speed = 210
+highth=49.4
+Standard=211.2
+pwm=26
+ speed = 219
+highth=49.4
+Standard=211.2
+Add=-4.0 
+
+pwm=22
+ speed = 218
+highth=49.4
+Standard=211.2
+Add=0.0 
+
+>>>  speed = 168
+ speed = 0
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.40
+ki=0.00
+kd=0.00
+ speed = 42
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 135
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 190
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 213
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 225
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 230
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 231
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 231
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 229
+highth=49.9
+Standard=235.0
+Add=2.0 
+
+pwm=33
+ speed = 228
+highth=49.9
+Standard=213.6
+Add=-8.0 
+
+pwm=25
+ speed = 239
+highth=49.9
+Standard=213.6
+Add=-4.0 
+
+pwm=21
+ speed = 222
+highth=49.9
+Standard=213.6
+Add=7.0 
+
+pwm=28
+ speed = 207
+highth=49.9 speed = 211
+
+Standard=213.6
+pwm=28
+ speed = 222
+highth=49.9
+Standard=213.6
+Add=-4.0 
+
+pwm=24
+ speed = 216
+highth=49.9
+Standard=213.6
+pwm=24
+ speed = 206
+highth=49.9
+Standard=213.6
+Add=4.0 
+
+pwm=28
+ speed = 205
+highth=49.9
+Standard=213.6
+Add=0.0 
+
+pwm=28
+ speed = 211
+highth=49.9
+Standard=213.6
+pwm=28
+ speed = 212
+highth=49.9
+Standard=213.6
+pwm=28
+ speed = 216
+highth=49.9
+Standard=213.6
+pwm=28
+ speed = 221
+highth=49.9
+Standard=213.6
+Add=-2.0 
+
+pwm=26
+ speed = 222
+highth=49.9
+Standard=213.6
+Add=0.0 
+
+pwm=26
+ speed = 215
+highth=49.9
+Standard=213.6
+pwm=26
+ speed = 211
+highth=49.9
+Standard=213.6
+pwm=26
+ speed = 209
+highth=49.9
+Standard=213.6
+Add=1.0 
+
+pwm=27
+ speed = 213
+highth=49.9
+Standard=213.6
+pwm=27
+ speed = 215
+highth=49.9
+Standard=213.6
+pwm=27
+ speed = 214
+
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.35
+ki=0.00
+kd=0.00
+ speed = 42
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 138
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 197
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 222
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 230
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 236
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 240
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 245
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 244
+highth=50.0
+Standard=235.0
+Add=0.0 
+
+pwm=31
+ speed = 248
+highth=50.0
+Standard=213.8
+Add=-9.0 
+
+pwm=22
+ speed = 251
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=21
+ speed = 219
+highth=50.0
+Standard=213.8
+Add=11.0 
+
+pwm=32
+ speed = 200
+highth=50.0
+Standard=213.8
+Add=7.0 
+
+pwm=39
+ speed = 230
+highth=50.0
+Standard=213.8
+Add=-10.0 
+
+pwm=29
+ speed = 256
+highth=50.0
+Standard=213.8
+Add=-9.0 
+
+pwm=20
+ speed = 239
+highth=50.0
+Standard=213.8
+Add=6.0 
+
+pwm=26
+ speed = 210
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 213
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 218
+highth=50.0
+Standard=213.8
+Add=-2.0 
+
+pwm=24
+ speed = 222
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=23
+ speed = 218
+highth=50.0
+Standard=213.8
+Add=1.0 
+
+pwm=24
+ speed = 212
+highth=50.0
+Standard=213.8
+pwm=24
+ speed = 212
+highth=50.0
+Standard=213.8
+pwm=24
+ speed = 209
+highth=50.0
+Standard=213.8
+Add=1.0 
+
+pwm=25
+ speed = 205
+highth=50.0 speed = 205
+
+Standard=213.8
+Add=1.0 
+
+pwm=26
+ speed = 216
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 220
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=25
+ speed = 216
+highth=50.0
+Standard=213.8
+pwm=25
+ speed = 219
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=24
+ speed = 218
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=24
+ speed = 217
+highth=50.0
+Standard=213.8
+pwm=24
+ speed = 218
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=24
+ speed = 213
+highth=50.0
+Standard=213.8
+pwm=24
+ speed = 211
+highth=50.0
+Standard=213.8
+pwm=24
+ speed = 212
+highth=50.0
+Standard=213.8
+pwm=24
+ speed = 212
+highth=50.0
+Standard=213.8
+pwm=24
+ speed = 210
+highth=50.0
+Standard=213.8
+pwm=24
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.35
+ki=0.00
+kd=0.00
+ speed = 40
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 134
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 193
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 223
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 241
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 242
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 240
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 241
+highth=49.9
+Standard=235.0
+Add=0.0 
+
+pwm=31
+ speed = 245
+highth=49.9
+Standard=213.5
+Add=-9.0 
+
+pwm=22
+ speed = 245
+highth=49.9
+Standard=213.5
+Add=0.0 
+
+pwm=22
+ speed = 218
+highth=49.9
+Standard=213.5
+Add=9.0 
+
+pwm=31
+ speed = 211
+highth=49.9
+Standard=213.5
+pwm=31
+ speed = 235
+highth=49.9
+Standard=213.5
+Add=-8.0 
+
+pwm=23
+ speed = 238
+highth=49.9
+Standard=213.5
+Add=-1.0 
+
+pwm=22
+ speed = 214
+highth=49.9
+Standard=213.5
+pwm=22
+ speed = 200
+highth=49.9
+Standard=213.5
+Add=5.0 
+
+pwm=27
+ speed = 198
+highth=49.9
+Standard=213.5
+Add=1.0 
+
+pwm=28
+ speed = 218
+highth=49.9
+Standard=213.5
+Add=-7.0 
+
+pwm=21
+ speed = 228
+highth=49.9
+Standard=213.5
+Add=-4.0 
+
+pwm=17
+ speed = 206
+highth=49.9
+Standard=213.5
+Add=8.0 
+
+pwm=25
+ speed = 188
+highth=49.9
+Standard=213.5
+Add=6.0 
+
+pwm=31
+ speed = 202
+highth=49.9
+Standard=213.5
+Add=-5.0 
+
+pwm=26
+ speed = 229
+highth=49.9
+Standard=213.5
+Add=-9.0 
+
+pwm=17
+ speed = 224
+highth=49.9
+Standard=213.5
+Add=2.0 
+
+pwm=19
+ speed = 196
+highth=49.9
+Standard=213.5
+Add=10.0 
+
+pwm=29
+ speed = 187
+highth=51.1
+Standard=218.4
+Add=5.0 
+
+pwm=34
+ speed = 216
+highth=49.9
+Standard=213.6
+pwm=34
+ speed = 245
+highth=49.9
+Standard=213.6
+Add=-10.0 
+
+pwm=24
+ speed = 250
+highth=49.9
+Standard=213.6
+Add=-2.0 
+
+pwm=22
+ speed = 226
+highth=49.9
+Standard=213.6
+Add=8.0 
+
+pwm=30
+ speed = 211
+highth=49.9
+Standard=213.6
+pwm=30
+ speed = 226
+highth=49.9
+Standard=213.6
+Add=-5.0 
+
+pwm=25
+ speed = 235
+highth=49.9
+Standard=213.6
+Add=-3.0 
+
+pwm=22
+ speed = 222
+highth=49.9
+Standard=213.6
+Add=5.0 
+
+pwm=27
+ speed = 207
+highth=49.9
+Standard=213.6
+Add=5.0 
+
+pwm=32
+ speed = 208
+highth=49.9
+Standard=213.6
+Add=0.0 
+
+pwm=32
+ speed = 226
+highth=49.9 speed = 237
+
+Standard=213.6
+Add=-10.0 
+
+pwm=22
+ speed = 227
+highth=49.9
+Standard=213.6
+Add=4.0 
+
+pwm=26
+ speed = 218
+highth=49.9
+Standard=213.6
+Add=3.0 
+
+pwm=29
+ speed = 222
+highth=49.9
+Standard=213.6
+Add=-1.0 
+
+pwm=28
+ speed = 230
+highth=49.9
+Standard=213.6
+Add=-3.0 
+
+pwm=25
+ speed = 230
+highth=49.9
+Standard=213.6
+Add=0.0 
+
+pwm=25
+ speed = 227
+highth=49.9
+Standard=213.6
+Add=1.0 
+
+pwm=26
+ speed = 223
+highth=49.9
+Standard=213.6
+Add=1.0 
+
+pwm=27
+ speed = 220
+highth=49.9
+Standard=213.6
+Add=1.0 
+
+pwm=28
+ speed = 221
+highth=49.9
+Standard=213.6
+Add=0.0 
+
+pwm=28
+ speed = 227
+highth=49.9
+Standard=213.6
+Add=-2.0 
+
+pwm=26
+ speed = 228
+highth=49.9
+Standard=213.6
+Add=0.0 
+
+pwm=26
+ speed = 222
+highth=49.9
+Standard=213.6
+Add=2.0 
+
+pwm=28
+ speed = 219
+highth=49.9
+Standard=213.6
+Add=1.0 
+
+pwm=29
+ speed = 231
+highth=49.9
+Standard=213.6
+Add=-4.0 
+
+pwm=25
+ speed = 235
+highth=49.9
+Standard=213.6
+Add=-1.0 
+
+pwm=24
+ speed = 217
+highth=49.9
+Standard=213.6
+pwm=24
+ speed = 209
+highth=49.9
+Standard=213.6
+
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.30
+ki=0.00
+kd=0.00
+ speed = 24
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 122
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 188
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 218
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 230
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 231
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 240
+highth=49.5
+Standard=235.0
+Add=-2.0 
+
+pwm=29
+ speed = 241
+highth=49.5
+Standard=211.8
+Add=-7.0 
+
+pwm=22
+ speed = 236
+highth=49.5
+Standard=211.8
+Add=2.0 
+
+pwm=24
+ speed = 216
+highth=49.5
+Standard=211.8
+Add=6.0 
+
+pwm=30
+ speed = 219
+highth=49.5
+Standard=211.8
+Add=-1.0 
+
+pwm=29
+ speed = 231
+highth=49.5
+Standard=211.8
+Add=-4.0 
+
+pwm=25
+ speed = 229
+highth=49.5
+Standard=211.8
+Add=1.0 
+
+pwm=26
+ speed = 220
+highth=49.5
+Standard=211.8
+Add=3.0 
+
+pwm=29
+ speed = 221
+highth=49.5
+Standard=211.8
+Add=0.0 
+
+pwm=29
+ speed = 231
+highth=49.5
+Standard=211.8
+Add=-3.0 
+
+pwm=26
+ speed = 236
+highth=49.5
+Standard=211.8
+Add=-2.0 
+
+pwm=24
+ speed = 227
+highth=49.5
+Standard=211.8
+Add=3.0 
+
+pwm=27
+ speed = 219
+highth=49.5 speed = 223
+
+Standard=211.8
+Add=1.0 
+
+pwm=28
+ speed = 228
+highth=49.5
+Standard=211.8
+Add=-2.0 
+
+pwm=26
+ speed = 226
+highth=49.5
+Standard=211.8
+Add=1.0 
+
+pwm=27
+ speed = 223
+highth=49.5
+Standard=211.8
+Add=1.0 
+
+pwm=28
+ speed = 226
+highth=49.5
+Standard=211.8
+Add=-1.0 
+
+pwm=27
+ speed = 228
+highth=47.9
+Standard=204.7
+Add=-3.0 
+
+pwm=24
+ speed = 229
+highth=49.2
+Standard=210.5
+Add=1.0 
+
+pwm=25
+ speed = 221
+highth=49.2
+Standard=210.5
+Add=2.0 
+
+pwm=27
+ speed = 216
+highth=49.2
+Standard=210.5
+Add=2.0 
+
+pwm=29
+ speed = 222
+highth=49.2
+Standard=210.5
+Add=-2.0 
+
+pwm=27
+ speed = 228
+highth=49.2
+Standard=210.5
+Add=-2.0 
+
+pwm=25
+ speed = 222
+highth=49.2
+Standard=210.5
+Add=2.0 
+
+pwm=27
+ speed = 216
+highth=49.2
+Standard=210.5
+Add=2.0 
+
+pwm=29
+ speed = 222
+highth=49.2
+Standard=210.5
+Add=-2.0 
+
+pwm=27
+ speed = 228
+highth=49.2
+Standard=210.5
+Add=-2.0 
+
+pwm=25
+>>>  speed = 123
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.33
+ki=0.00
+kd=0.00
+ speed = 57
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 149
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 202
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 223
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 239
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 230
+highth=49.5
+Standard=235.0
+Add=2.0 
+
+pwm=33
+ speed = 237
+highth=49.5
+Standard=211.8
+Add=-10.0 
+
+pwm=23
+ speed = 243
+highth=49.5
+Standard=211.8
+Add=-2.0 
+
+pwm=21
+ speed = 215
+highth=49.5
+Standard=211.8
+pwm=21
+ speed = 197
+highth=49.5
+Standard=211.8
+Add=6.0 
+
+pwm=27
+ speed = 189
+highth=49.5
+Standard=211.8
+Add=3.0 
+
+pwm=30
+ speed = 211
+highth=49.5
+Standard=211.8
+pwm=30
+ speed = 228
+highth=49.5
+Standard=211.8
+Add=-6.0 
+
+pwm=24
+ speed = 232
+highth=49.5
+Standard=211.8
+Add=-1.0 
+
+pwm=23
+ speed = 214
+highth=49.5
+Standard=211.8
+pwm=23
+ speed = 203
+highth=49.5
+Standard=211.8
+Add=4.0 
+
+pwm=27
+ speed = 202
+highth=49.5
+Standard=211.8
+Add=0.0 
+
+pwm=27
+ speed = 216
+highth=49.5
+Standard=211.8
+Add=-5.0 
+
+pwm=22
+ speed = 221
+highth=49.5
+Standard=211.8
+Add=-2.0 
+
+pwm=20
+ speed = 211
+highth=49.5
+Standard=211.8
+pwm=20
+ speed = 196
+highth=49.5
+Standard=211.8
+Add=5.0 
+
+pwm=25
+ speed = 189
+highth=49.5 speed = 199
+
+Standard=211.8
+Add=-1.0 
+
+pwm=24
+ speed = 207
+highth=49.5
+Standard=211.8
+Add=-3.0 
+
+pwm=21
+ speed = 206
+highth=49.5
+Standard=211.8
+Add=0.0 
+
+pwm=21
+ speed = 198
+highth=49.5
+Standard=211.8
+Add=3.0 
+
+pwm=24
+ speed = 201
+highth=49.5
+Standard=211.8
+Add=-1.0 
+
+pwm=23
+ speed = 209
+highth=49.5
+Standard=211.8
+pwm=23
+ speed = 203
+>>>  speed = 41
+ speed = 0
+ speed = 0
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.25
+ki=0.00
+kd=0.00
+ speed = 40highth=49.5
+
+Standard=235.0
+pwm=31
+ speed = 141
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 199
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 226
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 242
+highth=49.5
+Standard=235.0
+Add=-1.0 
+
+pwm=30
+ speed = 245
+highth=49.5
+Standard=211.5
+Add=-7.0 
+
+pwm=23
+ speed = 241
+highth=49.5
+Standard=211.5
+Add=1.0 
+
+pwm=24
+ speed = 214
+highth=49.5
+Standard=211.5
+pwm=24
+ speed = 205
+highth=49.5
+Standard=211.5
+Add=2.0 
+
+pwm=26
+ speed = 204
+highth=49.5
+Standard=211.5
+Add=0.0 
+
+pwm=26
+ speed = 208
+highth=49.5
+Standard=211.5
+pwm=26
+ speed = 213
+highth=49.5
+Standard=211.5
+pwm=26
+ speed = 214
+highth=49.5 speed = 213
+
+Standard=211.5
+pwm=26
+ speed = 212highth=49.5
+
+Standard=211.5
+pwm=26
+ speed = 210highth=49.5
+
+Standard=211.5
+pwm=26
+ speed = 217
+highth=49.5
+Standard=211.5
+Add=-2.0 
+
+pwm=24
+ speed = 215
+highth=49.5
+Standard=211.5
+pwm=24
+>>>  speed = 32
+ speed = 0
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.28
+ki=0.00
+kd=0.00
+ speed = 43
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 138
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 198
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 224
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 239
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 242
+highth=49.9
+Standard=235.0
+Add=-1.0 
+
+pwm=30
+ speed = 242
+highth=49.9
+Standard=213.6
+Add=-6.0 
+
+pwm=24
+ speed = 239
+highth=49.9
+Standard=213.6
+Add=1.0 
+
+pwm=25
+ speed = 220
+highth=49.9
+Standard=213.6
+Add=5.0 
+
+pwm=30
+ speed = 218
+highth=49.9
+Standard=213.6
+Add=1.0 
+
+pwm=31
+ speed = 235
+highth=49.9
+Standard=213.6
+Add=-5.0 
+
+pwm=26
+ speed = 245
+highth=49.9
+Standard=213.6
+Add=-3.0 
+
+pwm=23
+ speed = 228
+highth=49.9
+Standard=213.6
+Add=5.0 
+
+pwm=28
+ speed = 214
+highth=49.9
+Standard=213.6
+pwm=28
+ speed = 220
+highth=49.9
+Standard=213.6
+Add=-2.0 
+
+pwm=26
+ speed = 222
+highth=49.9 speed = 217
+
+Standard=213.6
+pwm=26
+ speed = 216highth=49.9
+
+Standard=213.6
+pwm=26
+ speed = 216
+highth=49.9
+Standard=213.6
+pwm=26
+ speed = 217
+highth=49.9
+Standard=213.6
+pwm=26
+ speed = 216
+highth=49.9
+Standard=213.6
+pwm=26
+ speed = 217
+highth=49.9
+Standard=213.6
+pwm=26
+ speed = 213
+highth=49.9
+Standard=213.6
+pwm=26
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.30
+ki=0.00
+kd=0.00
+ speed = 43
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 139
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 197
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 222
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 231
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 231
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 240
+highth=49.9
+Standard=235.0
+Add=-1.0 
+
+pwm=30
+ speed = 241
+highth=49.9
+Standard=213.4
+Add=-7.0 
+
+pwm=23
+ speed = 238
+highth=49.9
+Standard=213.4
+Add=1.0 
+
+pwm=24
+ speed = 214
+highth=49.9
+Standard=213.4
+pwm=24
+ speed = 206
+highth=49.9
+Standard=213.4
+Add=2.0 
+
+pwm=26
+ speed = 205
+highth=49.9
+Standard=213.4
+Add=0.0 
+
+pwm=26
+ speed = 212
+highth=49.9
+Standard=213.4
+pwm=26
+ speed = 213
+highth=49.9
+Standard=213.4
+pwm=26
+ speed = 214
+highth=49.9
+Standard=213.4
+pwm=26
+ speed = 217
+highth=49.9
+Standard=213.4
+pwm=26
+ speed = 217
+highth=49.9
+Standard=213.4
+pwm=26
+ speed = 214
+highth=49.9
+Standard=213.4
+pwm=26
+ speed = 218
+highth=49.9 speed = 218
+
+Standard=213.4
+Add=-1.0 
+
+pwm=25
+
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.30
+ki=0.00
+kd=0.00
+ speed = 28highth=49.9
+
+Standard=235.0
+pwm=31
+ speed = 131
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 194
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 223
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 239
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 239
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 241
+highth=49.9
+Standard=235.0
+Add=-1.0 
+
+pwm=30
+ speed = 242
+highth=49.9
+Standard=213.4
+Add=-7.0 
+
+pwm=23
+ speed = 240
+highth=48.8
+Standard=208.7
+Add=-1.0 
+
+pwm=22
+ speed = 227
+highth=49.9
+Standard=213.5
+Add=5.0 
+
+pwm=27
+ speed = 218
+highth=49.9
+Standard=213.5
+Add=3.0 
+
+pwm=30
+ speed = 230
+highth=49.9
+Standard=213.5
+Add=-4.0 
+
+pwm=26
+ speed = 242
+highth=49.9
+Standard=213.5
+Add=-4.0 
+
+pwm=22
+ speed = 230
+highth=49.9
+Standard=213.5
+Add=4.0 
+
+pwm=26
+ speed = 216
+highth=49.9
+Standard=213.5
+pwm=26
+ speed = 215
+highth=49.9
+Standard=213.5
+pwm=26
+ speed = 216
+highth=49.9
+Standard=213.5
+pwm=26
+ speed = 217
+highth=49.9
+Standard=213.5
+pwm=26
+ speed = 218
+highth=49.9
+Standard=213.5
+Add=0.0 
+
+pwm=26
+ speed = 218
+highth=49.9 speed = 218
+
+Standard=213.5
+Add=0.0 
+
+pwm=26
+ speed = 224
+highth=49.9
+Standard=213.5
+Add=-2.0 
+
+pwm=24
+ speed = 220
+highth=49.9
+Standard=213.5
+Add=1.0 
+
+pwm=25
+ speed = 215
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 211
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 212
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 212
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 211
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 210
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 212
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 212
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 216
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 217
+highth=49.9
+Standard=213.5
+pwm=25
+ speed = 219
+highth=49.9
+Standard=213.5
+Add=-1.0 
+
+pwm=24
+ speed = 216
+c
+>>>  speed = 120
+ speed = 0
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.29
+ki=0.00
+kd=0.00
+ speed = 41
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 137
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 197
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 221
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 230
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 229
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 228
+highth=49.5
+Standard=235.0
+Add=0.0 
+
+pwm=31
+ speed = 231
+highth=49.5
+Standard=211.9
+Add=-8.0 
+
+pwm=23
+ speed = 234
+highth=49.5
+Standard=211.9
+Add=-1.0 
+
+pwm=22
+ speed = 215
+highth=49.5
+Standard=211.9
+pwm=22
+ speed = 204
+highth=49.5
+Standard=211.9
+Add=3.0 
+
+pwm=25
+ speed = 200
+highth=49.5
+Standard=211.9
+Add=1.0 
+
+pwm=26
+ speed = 217
+highth=49.5
+Standard=211.9
+Add=-5.0 
+
+pwm=21
+ speed = 223
+highth=49.5
+Standard=211.9
+Add=-2.0 
+
+pwm=19
+ speed = 212
+highth=49.5
+Standard=211.9
+pwm=19
+ speed = 203
+highth=49.5
+Standard=211.9
+Add=3.0 
+
+pwm=22
+ speed = 193
+highth=49.5
+Standard=211.9
+Add=3.0 
+
+pwm=25
+ speed = 197
+highth=49.5
+Standard=211.9
+Add=-1.0 
+
+pwm=24
+ speed = 206
+highth=49.5
+Standard=211.9
+Add=-3.0 
+
+pwm=21
+ speed = 208
+highth=49.5 speed = 207
+
+Standard=211.9
+Add=0.0 
+
+pwm=21
+ speed = 207
+highth=49.5
+Standard=211.9
+Add=0.0 
+
+pwm=21
+ speed = 199
+highth=49.5
+Standard=211.9
+Add=2.0 
+
+pwm=23
+ speed = 201
+highth=49.5
+Standard=211.9
+Add=-1.0 
+
+pwm=22
+ speed = 212
+highth=49.5
+Standard=211.9
+pwm=22
+ speed = 213
+highth=49.5
+Standard=211.9
+pwm=22
+ speed = 208
+highth=49.5
+Standard=211.9
+pwm=22
+ speed = 209
+highth=49.5
+Standard=211.9
+pwm=22
+ speed = 208
+highth=49.5
+Standard=211.9
+pwm=22
+ speed = 209
+highth=49.5
+Standard=211.9
+pwm=22
+ speed = 206
+highth=49.5
+Standard=211.9
+Add=1.0 
+
+pwm=23
+ speed = 204
+highth=49.5
+Standard=211.9
+Add=1.0 
+
+pwm=24
+ speed = 204
+highth=49.5
+Standard=211.9
+Add=0.0 
+
+pwm=24
+ speed = 206
+highth=49.5
+Standard=211.9
+Add=-1.0 
+
+pwm=23
+ speed = 208
+highth=49.5
+Standard=211.9
+pwm=23
+ speed = 207
+highth=49.5
+Standard=211.9
+Add=0.0 
+
+pwm=23
+ speed = 203
+highth=49.5
+Standard=211.9
+Add=1.0 
+
+pwm=24
+ speed = 202
+highth=49.5
+Standard=211.9
+Add=0.0 
+
+pwm=24
+ speed = 206
+highth=49.5
+Standard=211.9
+Add=-1.0 
+
+pwm=23
+ speed = 209
+highth=49.5
+Standard=211.9
+pwm=23
+ speed = 208
+highth=49.5
+Standard=211.9
+pwm=23
+ speed = 203
+highth=49.5
+Standard=211.9
+Add=1.0 
+
+pwm=24
+ speed = 200
+highth=49.5
+Standard=211.9
+Add=1.0 
+
+ speed = 190
+>>> 
+ speed = 0
+ speed = 0
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.29
+ki=0.00
+kd=0.00
+ speed = 42
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 137
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 196
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 224
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 239
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 241
+highth=49.9
+Standard=235.0
+pwm=31
+ speed = 241
+highth=49.9
+Standard=235.0
+Add=0.0 
+
+pwm=31
+ speed = 240
+highth=49.9
+Standard=213.4
+Add=-6.0 
+
+pwm=25
+ speed = 232
+highth=49.9
+Standard=213.4
+Add=2.0 
+
+pwm=27
+ speed = 222
+highth=49.9
+Standard=213.4
+Add=3.0 
+
+pwm=30
+ speed = 232
+highth=49.9
+Standard=213.4
+Add=-3.0 
+
+pwm=27
+ speed = 241
+highth=49.9
+Standard=213.4
+Add=-3.0 
+
+pwm=24
+ speed = 235
+highth=49.9
+Standard=213.4
+Add=2.0 
+
+pwm=26
+ speed = 223
+highth=49.9
+Standard=213.4
+Add=3.0 
+
+pwm=29
+ speed = 221
+highth=49.9
+Standard=213.4
+Add=1.0 
+
+pwm=30
+ speed = 228
+highth=49.9
+Standard=213.4
+Add=-2.0 
+
+pwm=28
+ speed = 235
+highth=49.9
+Standard=213.4
+Add=-2.0 
+
+pwm=26
+ speed = 233
+highth=49.9
+Standard=213.4
+Add=1.0 
+
+pwm=27
+ speed = 227
+highth=49.9
+Standard=213.4
+Add=2.0 
+
+pwm=29
+ speed = 227
+highth=49.9 speed = 231
+
+Standard=213.4
+Add=-1.0 
+
+pwm=28
+ speed = 232
+highth=49.9
+Standard=213.4
+Add=0.0 
+
+pwm=28
+ speed = 226
+highth=49.9
+Standard=213.4
+Add=2.0 
+
+pwm=30
+ speed = 231
+highth=49.9
+Standard=213.4
+Add=-1.0 
+
+pwm=29
+ speed = 238
+highth=49.9
+Standard=213.4
+Add=-2.0 
+
+pwm=27
+ speed = 240
+highth=49.9
+Standard=213.4
+Add=-1.0 
+
+pwm=26
+ speed = 233
+highth=49.9
+Standard=213.4
+Add=2.0 
+
+pwm=28
+ speed = 229
+highth=49.9
+Standard=213.4
+Add=1.0 
+
+pwm=29
+ speed = 232
+highth=49.9
+Standard=213.4
+Add=-1.0 
+
+pwm=28
+ speed = 234
+highth=49.9
+Standard=213.4
+Add=-1.0 
+
+pwm=27
+ speed = 229
+highth=49.9
+Standard=213.4
+Add=1.0 
+
+pwm=28
+ speed = 225
+highth=49.9
+Standard=213.4
+Add=1.0 
+
+pwm=29
+ speed = 224
+highth=49.9
+Standard=213.4
+Add=0.0 
+
+pwm=29
+ speed = 228
+highth=49.9
+Standard=213.4
+Add=-1.0 
+
+pwm=28
+ speed = 231
+highth=49.9
+Standard=213.4
+Add=-1.0 
+
+pwm=27
+ speed = 231
+highth=49.9
+Standard=213.4
+Add=0.0 
+
+pwm=27
+ speed = 227
+highth=49.9
+Standard=213.4
+Add=1.0 
+
+pwm=28
+ speed = 223
+highth=49.9
+Standard=213.4
+Add=1.0 
+
+pwm=29
+ speed = 222
+highth=49.9
+Standard=213.4
+Add=0.0 
+
+pwm=29
+ speed = 225
+highth=49.9
+Standard=213.4
+Add=-1.0 
+
+pwm=28
+ speed = 228
+highth=49.9
+Standard=213.4
+Add=-1.0 
+
+pwm=27
+ speed = 228
+highth=49.9
+Standard=213.4
+Add=0.0 
+
+pwm=27
+ speed = 222
+highth=49.9 speed = 220
+
+Standard=213.4
+Add=2.0 
+
+pwm=29
+ speed = 225
+highth=49.9
+Standard=213.4
+Add=-1.0 
+
+pwm=28
+>>>  speed = 133
+ speed = 0
+ speed = 0
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.31
+ki=0.00
+kd=0.00
+ speed = 28highth=49.6
+
+Standard=235.0
+pwm=31
+ speed = 125highth=49.6
+
+Standard=235.0
+pwm=31
+ speed = 188highth=49.6
+
+Standard=235.0
+pwm=31
+ speed = 217highth=49.6
+
+Standard=235.0
+pwm=31
+ speed = 229highth=49.6
+
+Standard=235.0
+pwm=31
+ speed = 229
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 230
+highth=49.6
+Standard=235.0
+Add=1.0 
+
+pwm=32
+ speed = 237
+highth=49.6
+Standard=212.0
+Add=-9.0 
+
+pwm=23
+ speed = 246
+highth=49.6
+Standard=212.0
+Add=-3.0 
+
+pwm=20
+ speed = 217
+highth=49.6
+Standard=212.0
+Add=9.0 
+
+pwm=29
+ speed = 195
+highth=49.6
+Standard=212.0
+Add=7.0 
+
+pwm=36
+ speed = 218
+highth=49.6
+Standard=212.0
+Add=-7.0 
+
+pwm=29
+ speed = 246
+highth=49.6
+Standard=212.0
+Add=-9.0 
+
+pwm=20
+ speed = 231
+highth=49.6
+Standard=212.0
+Add=5.0 
+
+pwm=25
+ speed = 205
+highth=49.6
+Standard=212.0
+Add=8.0 
+
+pwm=33
+ speed = 206
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=33
+ speed = 230
+highth=49.6
+Standard=212.0
+Add=-7.0 
+
+pwm=26
+ speed = 240
+highth=49.6
+Standard=212.0
+Add=-3.0 
+
+pwm=23
+ speed = 229
+highth=49.6
+Standard=212.0
+Add=3.0 
+
+pwm=26
+ speed = 211
+highth=49.6
+Standard=212.0
+pwm=26
+ speed = 206
+highth=49.6
+Standard=212.0
+Add=2.0 
+
+pwm=28
+ speed = 210
+highth=49.6 speed = 215
+
+Standard=212.0
+pwm=28
+ speed = 223
+highth=49.6
+Standard=212.0
+Add=-2.0 
+
+pwm=26
+ speed = 220
+highth=49.6
+Standard=212.0
+Add=1.0 
+
+pwm=27
+ speed = 215
+highth=49.6
+Standard=212.0
+pwm=27
+ speed = 218
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=26
+ speed = 220
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=25
+ speed = 214
+highth=49.6
+Standard=212.0
+pwm=25
+ speed = 208
+highth=49.6
+Standard=212.0
+Add=2.0 
+
+pwm=27
+ speed = 206
+highth=49.6
+Standard=212.0
+Add=1.0 
+
+pwm=28
+ speed = 214
+highth=49.6
+Standard=212.0
+pwm=28
+ speed = 220
+highth=49.6
+Standard=212.0
+Add=-2.0 
+
+pwm=26
+ speed = 223
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=25
+ speed = 222
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=25
+ speed = 214
+highth=49.6
+Standard=212.0
+pwm=25
+ speed = 211
+highth=49.6
+Standard=212.0
+pwm=25
+ speed = 206
+highth=49.6
+Standard=212.0
+Add=2.0 
+
+pwm=27
+ speed = 204
+highth=49.6
+Standard=212.0
+Add=1.0 
+
+pwm=28
+ speed = 210
+highth=49.6
+Standard=212.0
+pwm=28
+ speed = 217
+highth=49.6
+Standard=212.0
+Add=-2.0 
+
+pwm=26
+ speed = 221
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=25
+ speed = 215
+highth=49.6 speed = 211
+
+Standard=212.0
+pwm=25
+ speed = 214
+highth=49.6
+Standard=212.0
+pwm=25
+ speed = 208
+highth=49.6
+Standard=212.0
+Add=2.0 
+
+pwm=27
+ speed = 213
+highth=49.6
+Standard=212.0
+pwm=27
+ speed = 215
+highth=49.6
+Standard=212.0
+pwm=27
+ speed = 213
+highth=49.6
+Standard=212.0
+pwm=27
+ speed = 215
+highth=49.6
+Standard=212.0
+pwm=27
+ speed = 218
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=26
+ speed = 220
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=25
+ speed = 218
+highth=49.6
+Standard=212.0
+Add=1.0 
+
+pwm=26
+ speed = 212
+highth=49.6
+Standard=212.0
+pwm=26
+ speed = 214
+highth=49.6
+Standard=212.0
+pwm=26
+ speed = 217
+c
+>>>  speed = 98
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.31
+ki=0.00
+kd=0.00
+ speed = 39highth=49.5
+
+Standard=235.0
+pwm=31
+ speed = 135highth=49.5
+
+Standard=235.0
+pwm=31
+ speed = 192highth=49.5
+
+Standard=235.0
+pwm=31
+ speed = 218highth=49.5
+
+Standard=235.0
+pwm=31
+ speed = 229
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 239
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 231
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.5
+Standard=235.0
+pwm=31
+ speed = 241
+highth=49.5
+Standard=235.0
+Add=-1.0 
+
+pwm=30
+ speed = 241
+highth=49.5
+Standard=211.9
+Add=-7.0 
+
+pwm=23
+ speed = 238
+highth=49.5
+Standard=211.9
+Add=1.0 
+
+pwm=24
+ speed = 212
+highth=49.5
+Standard=211.9
+pwm=24
+ speed = 207
+highth=49.5
+Standard=211.9
+Add=2.0 
+
+pwm=26
+ speed = 210
+highth=49.5
+Standard=211.9
+pwm=26
+ speed = 214
+highth=49.5
+Standard=211.9
+pwm=26
+ speed = 217
+highth=49.5
+Standard=211.9
+Add=-1.0 
+
+pwm=25
+ speed = 215
+highth=49.5
+Standard=211.9
+pwm=25
+ speed = 209
+highth=49.5
+Standard=211.9
+pwm=25
+ speed = 210
+highth=49.5
+Standard=211.9
+pwm=25
+ speed = 211
+highth=49.5
+Standard=211.9
+pwm=25
+ speed = 212
+highth=49.5
+Standard=211.9
+pwm=25
+ speed = 210
+highth=49.5
+Standard=211.9
+pwm=25
+ speed = 208
+highth=49.5
+Standard=211.9
+pwm=25
+ speed = 205
+highth=49.5 speed = 202
+
+Standard=211.9
+Add=2.0 
+
+pwm=27
+ speed = 208highth=49.5
+
+Standard=211.9
+pwm=27
+ speed = 210
+highth=49.5
+Standard=211.9
+pwm=27
+ speed = 212
+highth=49.5
+Standard=211.9
+pwm=27
+ speed = 216
+highth=49.5
+Standard=211.9
+Add=-1.0 
+
+pwm=26
+ speed = 216
+highth=49.5
+Standard=211.9
+Add=0.0 
+
+pwm=26
+ speed = 212
+highth=49.5
+Standard=211.9
+pwm=26
+ speed = 210
+highth=49.5
+Standard=211.9
+pwm=26
+ speed = 210
+highth=49.5
+Standard=211.9
+pwm=26
+ speed = 209
+>>>  speed = 54
+ speed = 0
+ speed = 0
+ spePython 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.31
+ki=0.00
+kd=0.00
+ speed = 42
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 135
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 193
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 217
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 229
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 236
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 235
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 231
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 231
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 232
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 232
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 232
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 236
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 232
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 231
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 235
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 235
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 236
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 230
+highth=50.0
+Standard=235.0
+Add=1.0 
+
+pwm=32
+ speed = 233
+highth=50.0
+Standard=213.9
+Add=-7.0 
+
+pwm=25
+ speed = 239
+highth=50.0
+Standard=213.9
+Add=-2.0 
+
+pwm=23
+ speed = 223
+highth=50.0
+Standard=213.9
+Add=5.0 
+
+pwm=28
+ speed = 208
+highth=50.0 speed = 212
+
+Standard=213.9
+pwm=28
+ speed = 221
+highth=50.0
+Standard=213.9
+Add=-3.0 
+
+pwm=25
+ speed = 212
+highth=50.0
+Standard=213.9
+pwm=25
+ speed = 209
+highth=50.0
+Standard=213.9
+Add=1.0 
+
+pwm=26
+ speed = 210
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 214
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 213
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 212
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 213
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 213
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 213
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 212
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 209
+highth=50.0
+Standard=213.9
+Add=1.0 
+
+pwm=27
+ speed = 209
+highth=50.0
+Standard=213.9
+Add=0.0 
+
+pwm=27
+ speed = 218
+highth=50.0
+Standard=213.9
+Add=-3.0 
+
+pwm=24
+ speed = 221
+highth=50.0
+Standard=213.9
+Add=-1.0 
+
+pwm=23
+ speed = 205
+highth=50.0
+Standard=213.9
+Add=5.0 
+
+pwm=28
+ speed = 199
+highth=50.0
+Standard=213.9
+Add=2.0 
+
+pwm=30
+ speed = 214
+highth=50.0
+Standard=213.9
+pwm=30
+ speed = 225
+highth=50.0
+Standard=213.9
+Add=-3.0 
+
+pwm=27
+ speed = 230
+highth=50.0
+Standard=213.9
+Add=-2.0 
+
+pwm=25
+ speed = 221
+highth=50.0
+Standard=213.9
+Add=3.0 
+
+pwm=28
+ speed = 216
+highth=50.0
+Standard=213.9
+pwm=28
+ speed = 222
+highth=50.0
+Standard=213.9
+Add=-2.0 
+
+pwm=26
+ speed = 227
+highth=50.0
+Standard=213.9
+Add=-2.0 
+
+pwm=24
+ speed = 221
+highth=50.0
+Standard=213.9
+Add=2.0 
+
+pwm=26
+ speed = 213
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 215
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 215
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 213
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 211
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 209
+highth=50.0
+Standard=213.9
+Add=1.0 
+
+pwm=27
+ speed = 211
+>>>  speed = 28
+ speed = 0
+ speed = 0
+ed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.26
+ki=0.00
+kd=0.00
+ speed = 24
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 122
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 187
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 218
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 230
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 240
+highth=49.6
+Standard=235.0
+Add=-1.0 
+
+pwm=30
+ speed = 240
+highth=49.6
+Standard=211.9
+Add=-6.0 
+
+pwm=24
+ speed = 234
+highth=49.6
+Standard=211.9
+Add=2.0 
+
+pwm=26
+ speed = 217
+highth=49.6
+Standard=211.9
+Add=4.0 
+
+pwm=30
+ speed = 214
+highth=49.6
+Standard=211.9
+pwm=30
+ speed = 226
+highth=49.6
+Standard=211.9
+Add=-3.0 
+
+pwm=27
+ speed = 224
+highth=49.6
+Standard=211.9
+Add=1.0 
+
+pwm=28
+ speed = 219
+highth=49.6
+Standard=211.9
+Add=1.0 
+
+pwm=29
+ speed = 222
+highth=49.6
+Standard=211.9
+Add=-1.0 
+
+pwm=28
+ speed = 227
+highth=49.6
+Standard=211.9
+Add=-1.0 
+
+pwm=27
+ speed = 225
+highth=49.6
+Standard=211.9
+Add=1.0 
+
+pwm=28
+ speed = 221
+highth=49.6
+Standard=211.9
+Add=1.0 
+
+pwm=29
+ speed = 223
+highth=49.6
+Standard=211.9
+Add=-1.0 
+
+pwm=28
+ speed = 227
+highth=49.6
+Standard=211.9
+Add=-1.0 
+
+pwm=27
+ speed = 228
+highth=49.6
+Standard=211.9
+Add=0.0 
+
+pwm=27
+ speed = 222
+highth=49.6
+Standard=211.9
+Add=2.0 
+
+pwm=29
+ speed = 215
+highth=49.6
+Standard=211.9
+pwm=29
+ speed = 217
+highth=49.6
+Standard=211.9
+Add=-1.0 
+
+pwm=28
+ speed = 217
+highth=49.6
+Standard=211.9
+Add=0.0 
+
+pwm=28
+ speed = 218
+highth=49.6
+Standard=211.9
+Add=0.0 
+
+pwm=28
+ speed = 219
+highth=49.6
+Standard=211.9
+Add=0.0 
+
+pwm=28
+ speed = 222
+highth=49.6
+Standard=211.9
+Add=-1.0 
+
+pwm=27
+ speed = 221
+highth=49.6
+Standard=211.9
+Add=0.0 
+
+pwm=27
+ speed = 215
+highth=49.6 speed = 214
+
+Standard=211.9
+pwm=27
+ speed = 215
+highth=49.6
+Standard=211.9
+pwm=27
+ speed = 214
+highth=49.6
+Standard=211.9
+pwm=27
+ speed = 217
+highth=49.6
+Standard=211.9
+Add=-1.0 
+
+pwm=26
+ speed = 213
+highth=49.6
+Standard=211.9
+pwm=26
+ speed = 211
+highth=49.6
+Standard=211.9
+pwm=26
+ speed = 212
+highth=49.6
+Standard=211.9
+pwm=26
+ speed = 212
+highth=49.6
+Standard=211.9
+pwm=26
+ speed = 210
+highth=49.6
+Standard=211.9
+pwm=26
+ speed = 211
+highth=49.6
+Standard=211.9
+>>>  speed = 85
+ speed = 0
+
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.26
+ki=0.00
+kd=0.00
+ speed = 39highth=50.0
+
+Standard=235.0
+pwm=31
+ speed = 136
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 192
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 219
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 232
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 235
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 235
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 235
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 237
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 237
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 236
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 238
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 239
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 239
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 236
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 237
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 235
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 230
+highth=50.0
+Standard=235.0
+Add=1.0 
+
+pwm=32
+ speed = 231
+highth=50.0
+Standard=213.8
+Add=-6.0 
+
+pwm=26
+ speed = 233
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=25
+ speed = 220
+highth=50.0
+Standard=213.8
+Add=3.0 
+
+pwm=28
+ speed = 213
+highth=50.0 speed = 213
+
+Standard=213.8
+pwm=28
+ speed = 218highth=50.0
+
+Standard=213.8
+Add=-1.0 
+
+pwm=27
+ speed = 220
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=26
+ speed = 218
+highth=50.0
+Standard=213.8
+Add=1.0 
+
+pwm=27
+ speed = 215
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 216
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 222
+highth=50.0
+Standard=213.8
+Add=-2.0 
+
+pwm=25
+ speed = 218
+highth=50.0
+Standard=213.8
+Add=1.0 
+
+pwm=26
+ speed = 210
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 210
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 217
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 213
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 210
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 209
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=26
+ speed = 209
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=26
+ speed = 213
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 212
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 210
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 209
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=26
+ speed = 208
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=26
+ speed = 210
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 209
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=26
+ speed = 209
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=26
+ speed = 209
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=26
+ speed = 209
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+ speed = 207pwm=26
+
+ speed = 208highth=50.0
+
+Standard=213.8
+Add=0.0 
+
+pwm=26
+ speed = 209highth=50.0
+
+Standard=213.8
+Add=0.0 
+
+pwm=26
+ speed = 209
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=26
+ speed = 213
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 208
+highth=50.0
+Standard=213.8
+Add=1.0 
+
+pwm=27
+ speed = 212
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 216
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 216
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 215
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 218
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=26
+ speed = 219
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=26
+ speed = 214
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 211
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 212
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 210
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 210
+>>>  speed = 120
+KeyboardInterrupt
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.27
+ki=0.00
+kd=0.00
+ speed = 39highth=50.0
+
+Standard=235.0
+pwm=31
+ speed = 136highth=50.0
+
+Standard=235.0
+pwm=31
+ speed = 197
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 221
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 232
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 235
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 237
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 238
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 238
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 236
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 236
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 238
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 235
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 237
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 238
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 237
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 236
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 235
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 236
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 238
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 241
+highth=50.0
+Standard=235.0
+Add=-1.0 
+
+pwm=30
+ speed = 240
+highth=50.0
+Standard=213.9
+Add=-5.0 
+
+pwm=25
+ speed = 236
+highth=50.0
+Standard=213.9
+Add=1.0 
+
+pwm=26
+ speed = 219
+highth=50.0 speed = 216
+
+Standard=213.9
+pwm=26
+ speed = 216
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 213
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 213
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 212
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 212
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 214
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 215
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 217
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 215
+highth=50.0
+Standard=213.9
+pwm=26
+ speed = 214
+highth=50.0
+Standard=213.9
+pwm=26
+>>>  speed = 197
+ speed = 0
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.27
+ki=0.00
+kd=0.00
+ speed = 84
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 163
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 205
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 219
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 229
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 231
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 239
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 240
+highth=49.6
+Standard=235.0
+Add=0.0 
+
+pwm=31
+ speed = 235
+highth=49.6
+Standard=212.0
+Add=-5.0 
+
+pwm=26
+ speed = 233
+highth=49.6
+Standard=212.0
+Add=1.0 
+
+pwm=27
+ speed = 221
+highth=49.6
+Standard=212.0
+Add=3.0 
+
+pwm=30
+ speed = 225
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=29
+ speed = 233
+highth=49.6
+Standard=212.0
+Add=-2.0 
+
+pwm=27
+ speed = 229
+highth=49.6
+Standard=212.0
+Add=1.0 
+
+pwm=28
+ speed = 223
+highth=49.6
+Standard=212.0
+Add=2.0 
+
+pwm=30
+ speed = 226
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=29
+ speed = 227
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=29
+ speed = 223
+highth=49.6
+Standard=212.0
+Add=1.0 
+
+pwm=30
+ speed = 221
+highth=49.6
+Standard=212.0
+Add=1.0 
+
+pwm=31
+ speed = 222
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=31
+ speed = 232
+highth=49.6
+Standard=212.0
+Add=-3.0 
+
+pwm=28
+ speed = 237
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=27
+ speed = 228
+highth=49.6
+Standard=212.0
+Add=2.0 
+
+pwm=29
+ speed = 222
+highth=49.6
+Standard=212.0
+Add=2.0 
+
+pwm=31
+ speed = 224
+highth=49.6 speed = 230
+
+Standard=212.0
+Add=-2.0 
+
+pwm=29
+ speed = 229highth=49.6
+
+Standard=212.0
+Add=0.0 
+
+pwm=29
+ speed = 230
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=29
+ speed = 230
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=29
+ speed = 227
+highth=49.6
+Standard=212.0
+Add=1.0 
+
+pwm=30
+ speed = 229
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=29
+ speed = 231
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=28
+ speed = 229
+highth=49.6
+Standard=212.0
+Add=1.0 
+
+pwm=29
+ speed = 228
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=29
+ speed = 228
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=29
+ speed = 230
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=28
+ speed = 229
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=28
+ speed = 223
+highth=49.6
+Standard=212.0
+Add=2.0 
+
+pwm=30
+ speed = 219
+highth=49.6
+Standard=212.0
+Add=1.0 
+
+pwm=31
+ speed = 224
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=30
+ speed = 232
+highth=49.6
+Standard=212.0
+Add=-2.0 
+
+pwm=28
+ speed = 231
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=28
+ speed = 229
+highth=49.6
+Standard=212.0
+Add=1.0 
+
+pwm=29
+ speed = 224
+>>>  speed = 193
+ speed = 0
+ speed = 0
+================================ RESTART ================================
+>>> Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.27
+ki=0.00
+kd=0.00
+ speed = 43
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 139
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 197
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 218
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 229
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 232
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 235
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 230
+highth=50.0
+Standard=235.0
+Add=1.0 
+
+pwm=32
+ speed = 232
+highth=50.0
+Standard=213.8
+Add=-6.0 
+
+pwm=26
+ speed = 232
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=26
+ speed = 222
+highth=50.0
+Standard=213.8
+Add=3.0 
+
+pwm=29
+ speed = 222
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=29
+ speed = 230
+highth=50.0
+Standard=213.8
+Add=-2.0 
+
+pwm=27
+ speed = 233
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=26
+ speed = 225
+highth=50.0
+Standard=213.8
+Add=2.0 
+
+pwm=28
+ speed = 218
+highth=50.0
+Standard=213.8
+Add=2.0 
+
+pwm=30
+ speed = 222
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=29
+ speed = 226
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=28
+ speed = 228
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=27
+ speed = 221
+highth=50.0
+Standard=213.8
+Add=2.0 
+
+pwm=29
+ speed = 217
+highth=50.0
+Standard=213.8
+pwm=29
+ speed = 219
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=28
+ speed = 219
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=28
+ speed = 218
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=28
+ speed = 221
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=27
+ speed = 221
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=27
+ speed = 217
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 218
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=27
+ speed = 218
+highth=50.0 speed = 219
+
+Standard=213.8
+Add=0.0 
+
+pwm=27
+ speed = 217highth=50.0
+
+Standard=213.8
+pwm=27
+ speed = 215
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 214
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 214
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 215
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 216
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 216
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 214
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 217
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 219
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=26
+ speed = 222
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=25
+ speed = 217
+highth=50.0
+Standard=213.8
+pwm=25
+ speed = 213
+highth=50.0
+Standard=213.8
+pwm=25
+ speed = 212
+highth=50.0
+Standard=213.8
+pwm=25
+ speed = 209
+highth=50.0
+Standard=213.8
+Add=1.0 
+
+pwm=26
+ speed = 212
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 209
+highth=50.0
+Standard=213.8
+Add=1.0 
+
+pwm=27
+ speed = 212
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 216
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 216
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 215
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 217
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 217
+highth=50.0
+Standard=213.8
+pwm=27
+ speed = 217
+>>>  speed = 163
+KeyboardInterrupt
+>>>  speed = 0
+ speed = 0
+ speed = 0
+================================ RESTART ================================
+>>> Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.32
+ki=0.00
+kd=0.00
+ speed = 40highth=50.0
+
+Standard=235.0
+pwm=31
+ speed = 140
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 196
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 220
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 230
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 233
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 236
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 235
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 239
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 237
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 236
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 237
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 237
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 235
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 239
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 236
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 234
+highth=50.0
+Standard=235.0
+pwm=31
+ speed = 229
+highth=50.0
+Standard=235.0
+Add=2.0 
+
+pwm=33
+ speed = 230
+highth=50.0
+Standard=213.8
+Add=-7.0 
+
+pwm=26
+ speed = 237
+highth=50.0
+Standard=213.8
+Add=-2.0 
+
+pwm=24
+ speed = 225
+highth=50.0
+Standard=213.8
+Add=4.0 
+
+pwm=28
+ speed = 214
+highth=50.0
+Standard=213.8
+pwm=28
+ speed = 217
+highth=50.0
+Standard=213.8
+pwm=28
+ speed = 215
+highth=50.0
+Standard=213.8
+pwm=28
+ speed = 216
+highth=50.0
+Standard=213.8
+pwm=28
+ speed = 220
+highth=50.0
+Standard=213.8
+Add=-1.0 
+
+pwm=27
+ speed = 221
+highth=50.0
+Standard=213.8
+Add=0.0 
+
+pwm=27
+ speed = 218
+highth=50.0
+Standard=213.8
+Add=1.0 
+
+pwm=28
+ speed = 216
+highth=48.5
+Standard=207.3
+Add=-1.0 
+
+pwm=27
+ speed = 217
+highth=49.6 speed = 213
+
+Standard=212.0
+pwm=27
+ speed = 212highth=49.6
+
+Standard=212.0
+pwm=27
+ speed = 213
+highth=49.6
+Standard=212.0
+pwm=27
+ speed = 216
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=26
+ speed = 214
+highth=49.6
+Standard=212.0
+pwm=26
+ speed = 208
+highth=49.6
+Standard=212.0
+pwm=26
+ speed = 207
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=26
+ speed = 206
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=26
+ speed = 209
+highth=49.6
+Standard=212.0
+pwm=26
+ speed = 213
+highth=49.6
+Standard=212.0
+pwm=26
+ speed = 215
+highth=49.6
+Standard=212.0
+pwm=26
+ speed = 216
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=26
+ speed = 215
+highth=49.6
+Standard=212.0
+pwm=26
+ speed = 212
+>>>  speed = 102
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.32
+ki=0.00
+kd=0.00
+ speed = 47
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 143
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 200
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 223
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 231
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 231
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 239
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 239
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 238
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.6 speed = 230
+
+Standard=235.0
+Add=1.0 
+
+pwm=32
+ speed = 232highth=49.6
+
+Standard=212.1
+Add=-8.0 
+
+pwm=24
+ speed = 221
+highth=49.6
+Standard=212.1
+Add=4.0 
+
+pwm=28
+ speed = 217
+highth=49.6
+Standard=212.1
+Add=1.0 
+
+pwm=29
+ speed = 222
+highth=49.6
+Standard=212.1
+Add=-2.0 
+
+pwm=27
+ speed = 225
+highth=49.6
+Standard=212.1
+Add=-1.0 
+
+pwm=26
+ speed = 219
+highth=49.6
+Standard=212.1
+Add=2.0 
+
+pwm=28
+ speed = 213
+highth=49.6
+Standard=212.1
+pwm=28
+ speed = 216
+highth=49.6
+Standard=212.1
+pwm=28
+ speed = 218
+highth=49.6
+Standard=212.1
+Add=-1.0 
+
+pwm=27
+ speed = 218
+highth=49.6
+Standard=212.1
+Add=0.0 
+
+pwm=27
+ speed = 220
+highth=49.6
+Standard=212.1
+Add=-1.0 
+
+pwm=26
+ speed = 220
+highth=49.6
+Standard=212.1
+Add=0.0 
+
+pwm=26
+ speed = 217
+highth=49.6
+Standard=212.1
+Add=1.0 
+
+pwm=27
+ speed = 214
+highth=49.6
+Standard=212.1
+pwm=27
+ speed = 214
+highth=49.6
+Standard=212.1
+pwm=27
+ speed = 217
+highth=49.6
+Standard=212.1
+Add=-1.0 
+
+pwm=26
+ speed = 220
+highth=49.6
+Standard=212.1
+Add=-1.0 
+
+pwm=25
+ speed = 216
+highth=49.6
+Standard=212.1
+pwm=25
+ speed = 207
+highth=49.6
+Standard=212.1
+Add=3.0 
+
+pwm=28
+ speed = 205
+highth=49.6
+Standard=212.1
+Add=1.0 
+
+pwm=29
+ speed = 217
+highth=49.6
+Standard=212.1
+Add=-4.0 
+
+pwm=25
+ speed = 220
+highth=49.6
+Standard=212.1
+Add=-1.0 
+
+pwm=24
+ speed = 209
+highth=49.6
+Standard=212.1
+pwm=24
+ speed = 202
+highth=49.6
+Standard=212.1
+Add=2.0 
+
+pwm=26
+ speed = 200
+highth=49.6
+Standard=212.1
+Add=1.0 
+
+pwm=27
+ speed = 206
+>>>  speed = 64
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.33
+ki=0.00
+kd=0.00
+ speed = 24
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 125
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 189
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 218
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 229
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 237
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 236
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 234
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 235
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 232
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 233
+highth=49.6
+Standard=235.0
+pwm=31
+ speed = 230
+highth=49.6
+Standard=235.0
+Add=1.0 
+
+pwm=32
+ speed = 231
+highth=49.6
+Standard=212.0
+Add=-8.0 
+
+pwm=24
+ speed = 234
+highth=49.6
+Standard=212.0
+Add=-1.0 
+
+pwm=23
+ speed = 216
+highth=49.6
+Standard=212.0
+pwm=23
+ speed = 205
+highth=49.6
+Standard=212.0
+Add=4.0 
+
+pwm=27
+ speed = 196
+highth=49.6
+Standard=212.0
+Add=3.0 
+
+pwm=30
+ speed = 203
+highth=49.6
+Standard=212.0
+Add=-2.0 
+
+pwm=28
+ speed = 216
+highth=49.6 speed = 218
+
+Standard=212.0
+Add=-5.0 
+
+pwm=23
+ speed = 213
+highth=49.6
+Standard=212.0
+pwm=23
+ speed = 201
+highth=49.6
+Standard=212.0
+Add=4.0 
+
+pwm=27
+ speed = 202
+highth=49.6
+Standard=212.0
+Add=0.0 
+
+pwm=27
+ speed = 211
+highth=49.6
+Standard=212.0
+pwm=27
+ speed = 214
+highth=49.6
+Standard=212.0
+pwm=27
+ speed = 211
+highth=49.6
+Standard=212.0
+pwm=27
+ speed = 211
+highth=49.6
+Standard=212.0
+pwm=27
+ speed = 210
+>>>  speed = 63
+ speed = 0
+
+
+
+
+change  to   up-mode  
+
+
+
+
+
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.30
+ki=0.00
+kd=0.00
+ speed = 50
+highth=50.0
+Standard=235.0
+pwm=25
+ speed = 123
+highth=50.0
+Standard=235.0
+pwm=25
+ speed = 170
+highth=50.0
+Standard=235.0
+pwm=25
+ speed = 193
+highth=50.0
+Standard=235.0
+pwm=25
+ speed = 200
+highth=50.0
+Standard=235.0
+pwm=25
+ speed = 204
+highth=50.0
+Standard=235.0
+pwm=25
+ speed = 208
+highth=50.0
+Standard=235.0
+pwm=25
+ speed = 209
+highth=50.0
+Standard=235.0
+pwm=25
+ speed = 210
+highth=50.0
+Standard=235.0
+Add=0.0 
+
+pwm=25
+ speed = 210
+highth=50.0
+Standard=213.8
+pwm=25
+ speed = 207
+highth=50.0
+Standard=213.8
+Add=1.0 
+
+pwm=26
+ speed = 212
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 211
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 211
+highth=50.0
+Standard=213.8
+pwm=26
+ speed = 208
+highth=50.0
+Standard=213.8
+Add=1.0 
+
+pwm=27
+ speed = 208
+highth=48.9
+Standard=209.1
+pwm=27
+ speed = 213
+highth=48.9
+Standard=209.1
+pwm=27
+ speed = 214
+highth=49.9
+Standard=213.4
+pwm=27
+ speed = 214
+highth=49.9
+Standard=213.4
+pwm=27
+ speed = 212
+highth=49.9
+Standard=213.4
+pwm=27
+ speed = 216
+highth=49.9
+Standard=213.4
+pwm=27
+ speed = 215
+highth=49.9
+Standard=213.4
+pwm=27
+ speed = 214
+>>>  speed = 165
+ speed = 0
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.30
+ki=0.00
+kd=0.00
+ speed = 26
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 95
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 140
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 167
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 179
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 184
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 188
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 188
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 191
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 190
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 190
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 189
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 191
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 191
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 190
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 188
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 189
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 188
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 188
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 189
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 189
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 186
+highth=50.0
+Standard=192.0
+Add=1.0 
+
+pwm=22
+ speed = 184
+highth=50.0 speed = 187
+
+Standard=213.6
+Add=6.0 
+
+pwm=28
+ speed = 204
+highth=50.0
+Standard=213.6
+Add=-5.0 
+
+pwm=23
+ speed = 210
+highth=50.0
+Standard=213.6
+pwm=23
+ speed = 205
+highth=50.0
+Standard=213.6
+Add=2.0 
+
+pwm=25
+ speed = 200
+highth=50.0
+Standard=213.6
+Add=2.0 
+
+pwm=27
+ speed = 208
+highth=50.0
+Standard=213.6
+Add=-2.0 
+
+pwm=25
+ speed = 216
+highth=50.0
+Standard=213.6
+pwm=25
+ speed = 214
+highth=50.0
+Standard=213.6
+pwm=25
+ speed = 210
+highth=50.0
+Standard=213.6
+pwm=25
+ speed = 210
+highth=50.0
+Standard=213.6
+pwm=25
+ speed = 208
+highth=50.0
+Standard=213.6
+Add=1.0 
+
+pwm=26
+ speed = 211
+highth=50.0
+Standard=213.6
+pwm=26
+ speed = 214
+highth=50.0
+Standard=213.6
+pwm=26
+ speed = 212
+highth=50.0
+Standard=213.6
+pwm=26
+ speed = 211
+highth=50.0
+Standard=213.6
+pwm=26
+ speed = 212
+highth=50.0
+Standard=213.6
+pwm=26
+ speed = 211
+highth=50.0 speed = 198
+>>> 
+ speed = 0
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.28
+ki=0.00
+kd=0.00
+ speed = 10
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 80
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 132
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 161
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 175
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 181
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 188
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 189
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 192
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 190
+highth=50.0
+Standard=192.0
+pwm=21
+ speed = 194
+highth=51.5
+Standard=192.0
+pwm=21
+ speed = 189
+highth=49.5
+Standard=192.0
+pwm=21
+ speed = 191
+highth=49.5
+Standard=192.0
+pwm=21
+ speed = 188
+highth=49.5
+Standard=192.0
+pwm=21
+ speed = 188
+highth=49.5
+Standard=192.0
+pwm=21
+ speed = 185
+highth=49.5
+Standard=192.0
+Add=1.0 
+
+pwm=22
+ speed = 188
+highth=49.5
+Standard=211.9
+Add=5.0 
+
+pwm=27
+ speed = 191
+highth=49.5
+Standard=211.9
+Add=-1.0 
+
+pwm=26
+ speed = 203
+highth=49.5
+Standard=211.9
+Add=-3.0 
+
+pwm=23
+ speed = 209
+highth=49.5
+Standard=211.9
+pwm=23
+ speed = 201
+highth=49.5
+Standard=211.9
+Add=2.0 
+
+pwm=25
+ speed = 197
+highth=49.5 speed = 201
+
+Standard=211.9
+Add=0.0 
+
+pwm=25

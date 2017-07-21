@@ -1,0 +1,67 @@
+<extend name="base" />
+	<block name="container">	
+		<div class="container">
+			<div class="panel">
+  				<div class="panel-heading">
+                                通风柜开关
+  				</div>
+  				<div class="panel-body">
+  				<div class="row">
+				<div class="col-md-1"><button type="button" class="btn btn-primary">风机启动</button></div>
+  				<div class="col-md-1"></div>
+  				<div class="col-md-10"><button type="button" class="btn">风机停止</button></div>
+  				
+  				
+  				</div>
+			</div>
+			<div class="panel">
+  				<div class="panel-heading">
+                                LED开关
+  				</div>
+  				<div class="panel-body">			
+  				<div class="row">
+  				<div class="col-md-1"><button id="on" type="button" class="btn btn-primary">LED亮</button></div>
+  				<div class="col-md-1"></div>
+  				<div class="col-md-2"><button id="off" type="button" class="btn">LED灭</button></div>
+  				<div class="col-md-8"><img id="img1" src="../../../../Public/light.jpg" width="20" height="25" style="display: none;"/></div>
+  				</div>			
+  				</div>
+			</div>
+			<div class="panel">
+  				<div class="panel-heading">
+                                实验计时
+  				</div>
+  				<div class="panel-body">			
+  				<div class="row">
+  				<div class="col-md-1"><button type="button" class="btn btn-primary">开始计时</button></div>
+  				<div class="col-md-1"></div>
+  				<div class="col-md-10"><button type="button" class="btn">停止</button></div>
+  				</div>			
+  				</div>
+			</div>
+			<div class="panel">
+  				<div class="panel-heading">
+                                实验关闭倒计时
+  				</div>
+  				<div class="panel-body">			
+  				<div class="row">
+  				<div class="col-md-1"><button type="button" class="btn btn-primary">开始倒计时</button></div>
+  				<div class="col-md-1"></div>
+  				<div class="col-md-10"><button type="button" class="btn">关闭</button></div>
+  				</div>			
+  				</div>
+			</div>
+		</div>		
+	</block>
+        <block name="jsinbody">
+                <script>
+                $(function(){
+                        $("#off").click(function(){
+                        $("#img1").hide();
+                        });
+                        $("#on").click(function(){
+                        $("#img1").show();
+                        });        
+                });
+                </script>
+        </block>     

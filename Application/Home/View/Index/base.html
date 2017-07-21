@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>智能通风柜控制系统</title>
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/zui.min.css" media="all">
+		<link rel="stylesheet" type="text/css" href="__PUBLIC__/zui-theme.min.css" media="all">
+		<script type="text/javascript" src="__PUBLIC__/jquery.min.js"></script>
+	    	<script type="text/javascript" src="__PUBLIC__/zui.min.js"></script>
+	    	<block name="jsinhead">		</block>
+	</head>
+	<body>
+		<block name="menu">
+			<nav class="navbar navbar-inverse" role="navigation">
+			<div class="container">
+				<!-- 导航头部 -->
+    				<div class="navbar-header">
+    				<!-- 品牌名称或logo -->
+      					<a class="navbar-brand" href="{:U('Home/Index/index')}">智能通风柜控制系统</a>
+    				</div>
+    				<div class="collapse navbar-collapse navbar-collapse-example">
+      					<ul class="nav navbar-nav">
+				        	<li id="li1"><a href="{:U('Home/Index/machine')}">远程监控</a></li>
+				        	<li id="li2"><a href="{:U('Home/Index/history')}">使用记录</a></li>
+				        	<if condition="$Think.session.name eq admin">
+                                                        <li id="li3"><a href="{:U('Home/Index/user')}">用户管理</a></li>                
+                                                </if>
+				                <!--<li><a class="activenow" href="{:U('Home/Index/user')}">编辑用户</a></li>-->
+				                <!--<li><a href="{:U('Home/Index/timer')}">测试时钟</a></li>-->
+				        </ul>
+				        <ul class="nav navbar-nav navbar-right">
+				                <li><a href="{:U('Home/Index/timer')}">{$Think.session.name}</a></li>
+				                <li><a href="{:U('Home/Index/index')}">退出登录</a></li>
+				        	<!--<li style="float: right;"><a>{$username}</a></li>-->
+					</ul>
+     					<!-- 导航中的表单 -->
+      					<!--<form class="navbar-form navbar-left" role="search">
+        				<div class="form-group">
+          					<input type="text" class="form-control" placeholder="搜索">
+        				</div>
+        				<button type="submit" class="btn btn-default">搜索</button>
+      					</form>-->
+    				
+    				</div>	
+    				
+			</div>	
+			</nav>
+		</block>
+		<block name="container">		</block>
+		<block name="jsinbody">
+		        <!--<script>
+		        $(function(){
+		                $(".clickthis").each(function(){  
+                                        if($(this).href == String(window.location)) {   
+                                        if(this.href==window.location.href) {
+                                        $(this).parent().addClass("active");
+                                        alert($(this)[0].href);
+                                        alert(String(window.location));
+                                });  
+		        });
+		        </script>-->
+		</block>
+	</body>
+</html>

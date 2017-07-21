@@ -1,0 +1,983 @@
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+waiting 1 seconds
+start 10s ji shi
+found zhong duan 232pwm=100
+
+found zhong duan 287pwm=100
+
+found zhong duan 298pwm=100
+
+found zhong duan 300pwm=100
+
+found zhong duan 299pwm=100
+
+found zhong duan 298pwm=100
+
+found zhong duan 299pwm=100
+
+found zhong duan 299pwm=100
+
+found zhong duan 298pwm=100
+
+found zhong duan 297pwm=100
+
+found zhong duan 290pwm=98
+
+found zhong duan 287pwm=98
+
+found zhong duan 288pwm=98
+
+found zhong duan 286pwm=98
+
+found zhong duan 289pwm=98
+
+found zhong duan 288pwm=98
+
+found zhong duan 284pwm=98
+
+found zhong duan 287pwm=98
+
+found zhong duan 289pwm=98
+
+found zhong duan 287pwm=98
+
+found zhong duan 285pwm=96
+
+found zhong duan 286pwm=96
+
+found zhong duan 288pwm=96
+
+found zhong duan 293pwm=96
+
+found zhong duan 290pwm=96
+
+found zhong duan 288pwm=96
+
+found zhong duan 287pwm=96
+
+found zhong duan 286pwm=96
+
+found zhong duan 286pwm=96
+
+found zhong duan 287pwm=94
+
+found zhong duan 288pwm=94
+
+found zhong duan 288pwm=94
+
+found zhong duan 290pwm=94
+
+found zhong duan 288pwm=94
+
+found zhong duan 289pwm=94
+
+found zhong duan 290pwm=94
+
+found zhong duan 287pwm=94
+
+found zhong duan 288pwm=94
+
+found zhong duan 285pwm=94
+
+found zhong duan 284pwm=92
+
+found zhong duan 284pwm=92
+
+found zhong duan 281pwm=92
+
+found zhong duan 283pwm=92
+
+found zhong duan 283pwm=92
+
+found zhong duan 283pwm=92
+
+found zhong duan 284pwm=92
+
+found zhong duan 285pwm=92
+
+found zhong duan 284pwm=92
+
+found zhong duan 285pwm=92
+
+found zhong duan 283pwm=90
+
+found zhong duan 281pwm=90
+
+found zhong duan 280pwm=90
+
+found zhong duan 281pwm=90
+
+found zhong duan 280pwm=90
+
+found zhong duan 282pwm=90
+
+found zhong duan 281pwm=90
+
+found zhong duan 279pwm=90
+
+found zhong duan 278pwm=90
+
+found zhong duan 277pwm=88
+
+found zhong duan 275pwm=88
+
+found zhong duan 279pwm=88
+
+found zhong duan 278pwm=88
+
+found zhong duan 279pwm=88
+
+found zhong duan 279pwm=88
+
+found zhong duan 279pwm=88
+
+found zhong duan 279pwm=88
+
+found zhong duan 277pwm=88
+
+found zhong duan 278pwm=88
+
+found zhong duan 277pwm=86
+
+found zhong duan 277pwm=86
+
+found zhong duan 275pwm=86
+
+found zhong duan 275pwm=86
+
+found zhong duan 276pwm=86
+
+found zhong duan 275pwm=86
+
+found zhong duan 276pwm=86
+
+found zhong duan 275pwm=86
+
+found zhong duan 273pwm=86
+
+found zhong duan 274pwm=86
+
+found zhong duan 274pwm=84
+
+found zhong duan 274pwm=84
+
+found zhong duan 273pwm=84
+
+found zhong duan 273pwm=84
+
+found zhong duan 271pwm=84
+
+found zhong duan 273pwm=84
+
+found zhong duan 273pwm=84
+
+found zhong duan 271pwm=84
+
+found zhong duan 272pwm=84
+
+found zhong duan 270pwm=82
+
+found zhong duan 271pwm=82
+
+found zhong duan 269pwm=82
+
+found zhong duan 268pwm=82
+
+found zhong duan 268pwm=82
+
+found zhong duan 268pwm=82
+
+found zhong duan 267pwm=82
+
+found zhong duan 268pwm=82
+
+found zhong duan 269pwm=82
+
+found zhong duan 268pwm=82
+
+found zhong duan 264pwm=80
+
+found zhong duan 262pwm=80
+
+found zhong duan 262pwm=80
+
+found zhong duan 264pwm=80
+
+found zhong duan 265pwm=80
+
+found zhong duan 265pwm=80
+
+found zhong duan 265pwm=80
+
+found zhong duan 267pwm=80
+
+found zhong duan 268pwm=80
+
+found zhong duan 267pwm=80
+
+found zhong duan 266pwm=78
+
+found zhong duan 264pwm=78
+
+found zhong duan 261pwm=78
+
+found zhong duan 264pwm=78
+
+found zhong duan 265pwm=78
+
+found zhong duan 261pwm=78
+
+found zhong duan 260pwm=78
+
+found zhong duan 261pwm=78
+
+found zhong duan 262pwm=78
+
+found zhong duan 258pwm=76
+
+found zhong duan 255pwm=76
+
+found zhong duan 258pwm=76
+
+found zhong duan 260pwm=76
+
+found zhong duan 261pwm=76
+
+found zhong duan 261pwm=76
+
+found zhong duan 258pwm=76
+
+found zhong duan 257pwm=76
+
+found zhong duan 257pwm=76
+
+found zhong duan 258pwm=76
+
+found zhong duan 258pwm=74
+
+found zhong duan 257pwm=74
+
+found zhong duan 257pwm=74
+
+found zhong duan 255pwm=74
+
+found zhong duan 256pwm=74
+
+found zhong duan 256pwm=74
+
+found zhong duan 256pwm=74
+
+found zhong duan 257pwm=74
+
+found zhong duan 256pwm=74
+
+found zhong duan 257pwm=72
+
+found zhong duan 255pwm=72
+
+found zhong duan 256pwm=72
+
+found zhong duan 253pwm=72
+
+found zhong duan 252pwm=72
+
+found zhong duan 253pwm=72
+
+found zhong duan 254pwm=72
+
+found zhong duan 253pwm=72
+
+found zhong duan 250pwm=72
+
+found zhong duan 250pwm=72
+
+found zhong duan 248pwm=70
+
+found zhong duan 248pwm=70
+
+found zhong duan 250pwm=70
+
+found zhong duan 250pwm=70
+
+found zhong duan 249pwm=70
+
+found zhong duan 249pwm=70
+
+found zhong duan 251pwm=70
+
+found zhong duan 253pwm=70
+
+found zhong duan 252pwm=70
+
+found zhong duan 252pwm=70
+
+found zhong duan 249pwm=68
+
+found zhong duan 246pwm=68
+
+found zhong duan 244pwm=68
+
+found zhong duan 245pwm=68
+
+found zhong duan 245pwm=68
+
+found zhong duan 247pwm=68
+
+found zhong duan 248pwm=68
+
+found zhong duan 246pwm=68
+
+found zhong duan 244pwm=68
+
+found zhong duan 241pwm=66
+
+found zhong duan 239pwm=66
+
+found zhong duan 241pwm=66
+
+found zhong duan 242pwm=66
+
+found zhong duan 242pwm=66
+
+found zhong duan 243pwm=66
+
+found zhong duan 242pwm=66
+
+found zhong duan 242pwm=66
+
+found zhong duan 243pwm=66
+
+found zhong duan 241pwm=66
+
+found zhong duan 238pwm=64
+
+found zhong duan 238pwm=64
+
+found zhong duan 238pwm=64
+
+found zhong duan 239pwm=64
+
+found zhong duan 238pwm=64
+
+found zhong duan 239pwm=64
+
+found zhong duan 239pwm=64
+
+found zhong duan 238pwm=64
+
+found zhong duan 239pwm=64
+
+found zhong duan 239pwm=64
+
+found zhong duan 237pwm=62
+
+found zhong duan 234pwm=62
+
+found zhong duan 232pwm=62
+
+found zhong duan 235pwm=62
+
+found zhong duan 235pwm=62
+
+found zhong duan 235pwm=62
+
+found zhong duan 236pwm=62
+
+found zhong duan 233pwm=62
+
+found zhong duan 234pwm=62
+
+found zhong duan 234pwm=60
+
+found zhong duan 233pwm=60
+
+found zhong duan 231pwm=60
+
+found zhong duan 230pwm=60
+
+found zhong duan 229pwm=60
+
+found zhong duan 231pwm=60
+
+found zhong duan 230pwm=60
+
+found zhong duan 229pwm=60
+
+found zhong duan 230pwm=60
+
+found zhong duan 229pwm=60
+
+found zhong duan 227pwm=58
+
+found zhong duan 227pwm=58
+
+found zhong duan 228pwm=58
+
+found zhong duan 226pwm=58
+
+found zhong duan 224pwm=58
+
+found zhong duan 225pwm=58
+
+found zhong duan 226pwm=58
+
+found zhong duan 224pwm=58
+
+found zhong duan 225pwm=58
+
+found zhong duan 225pwm=58
+
+found zhong duan 224pwm=56
+
+found zhong duan 221pwm=56
+
+found zhong duan 221pwm=56
+
+found zhong duan 222pwm=56
+
+found zhong duan 222pwm=56
+
+found zhong duan 221pwm=56
+
+found zhong duan 220pwm=56
+
+found zhong duan 222pwm=56
+
+found zhong duan 224pwm=56
+
+found zhong duan 222pwm=54
+
+found zhong duan 219pwm=54
+
+found zhong duan 218pwm=54
+
+found zhong duan 219pwm=54
+
+found zhong duan 219pwm=54
+
+found zhong duan 220pwm=54
+
+found zhong duan 218pwm=54
+
+found zhong duan 217pwm=54
+
+found zhong duan 219pwm=54
+
+found zhong duan 218pwm=54
+
+found zhong duan 214pwm=52
+
+found zhong duan 212pwm=52
+
+found zhong duan 215pwm=52
+
+found zhong duan 216pwm=52
+
+found zhong duan 211pwm=52
+
+found zhong duan 210pwm=52
+
+found zhong duan 211pwm=52
+
+found zhong duan 214pwm=52
+
+found zhong duan 216pwm=52
+
+found zhong duan 213pwm=50
+
+found zhong duan 210pwm=50
+
+found zhong duan 210pwm=50
+
+found zhong duan 210pwm=50
+
+found zhong duan 210pwm=50
+
+found zhong duan 209pwm=50
+
+found zhong duan 209pwm=50
+
+found zhong duan 209pwm=50
+
+found zhong duan 207pwm=50
+
+found zhong duan 207pwm=50
+
+found zhong duan 206pwm=48
+
+found zhong duan 206pwm=48
+
+found zhong duan 205pwm=48
+
+found zhong duan 205pwm=48
+
+found zhong duan 205pwm=48
+
+found zhong duan 207pwm=48
+
+found zhong duan 208pwm=48
+
+found zhong duan 207pwm=48
+
+found zhong duan 206pwm=48
+
+found zhong duan 205pwm=48
+
+found zhong duan 203pwm=46
+
+found zhong duan 201pwm=46
+
+found zhong duan 200pwm=46
+
+found zhong duan 200pwm=46
+
+found zhong duan 200pwm=46
+
+found zhong duan 199pwm=46
+
+found zhong duan 199pwm=46
+
+found zhong duan 201pwm=46
+
+found zhong duan 201pwm=46
+
+found zhong duan 198pwm=44
+
+found zhong duan 195pwm=44
+
+found zhong duan 194pwm=44
+
+found zhong duan 195pwm=44
+
+found zhong duan 195pwm=44
+
+found zhong duan 195pwm=44
+
+found zhong duan 194pwm=44
+
+found zhong duan 195pwm=44
+
+found zhong duan 195pwm=44
+
+found zhong duan 195pwm=44
+
+found zhong duan 196pwm=42
+
+found zhong duan 192pwm=42
+
+found zhong duan 192pwm=42
+
+found zhong duan 192pwm=42
+
+found zhong duan 192pwm=42
+
+found zhong duan 194pwm=42
+
+found zhong duan 192pwm=42
+
+found zhong duan 190pwm=42
+
+found zhong duan 190pwm=42
+
+found zhong duan 190pwm=42
+
+found zhong duan 187pwm=40
+
+found zhong duan 186pwm=40
+
+found zhong duan 186pwm=40
+
+found zhong duan 186pwm=40
+
+found zhong duan 186pwm=40
+
+found zhong duan 186pwm=40
+
+found zhong duan 185pwm=40
+
+found zhong duan 184pwm=40
+
+found zhong duan 183pwm=40
+
+found zhong duan 183pwm=38
+
+found zhong duan 183pwm=38
+
+found zhong duan 179pwm=38
+
+found zhong duan 176pwm=38
+
+found zhong duan 177pwm=38
+
+found zhong duan 176pwm=38
+
+found zhong duan 177pwm=38
+
+found zhong duan 180pwm=38
+
+found zhong duan 179pwm=38
+
+found zhong duan 179pwm=38
+
+found zhong duan 176pwm=36
+
+found zhong duan 172pwm=36
+
+found zhong duan 172pwm=36
+
+found zhong duan 172pwm=36
+
+found zhong duan 173pwm=36
+
+found zhong duan 174pwm=36
+
+found zhong duan 174pwm=36
+
+found zhong duan 174pwm=36
+
+found zhong duan 175pwm=36
+
+found zhong duan 176pwm=36
+
+found zhong duan 170pwm=34
+
+found zhong duan 164pwm=34
+
+found zhong duan 166pwm=34
+
+found zhong duan 170pwm=34
+
+found zhong duan 169pwm=34
+
+found zhong duan 166pwm=34
+
+found zhong duan 164pwm=34
+
+found zhong duan 163pwm=34
+
+found zhong duan 164pwm=34
+
+found zhong duan 165pwm=32
+
+found zhong duan 163pwm=32
+
+found zhong duan 162pwm=32
+
+found zhong duan 161pwm=32
+
+found zhong duan 162pwm=32
+
+found zhong duan 161pwm=32
+
+found zhong duan 161pwm=32
+
+found zhong duan 162pwm=32
+
+found zhong duan 161pwm=32
+
+found zhong duan 162pwm=32
+
+found zhong duan 161pwm=30
+
+found zhong duan 157pwm=30
+
+found zhong duan 155pwm=30
+
+found zhong duan 155pwm=30
+
+found zhong duan 154pwm=30
+
+found zhong duan 153pwm=30
+
+found zhong duan 153pwm=30
+
+found zhong duan 152pwm=30
+
+found zhong duan 153pwm=30
+
+found zhong duan 151pwm=30
+
+found zhong duan 150pwm=28
+
+found zhong duan 148pwm=28
+
+found zhong duan 148pwm=28
+
+found zhong duan 149pwm=28
+
+found zhong duan 150pwm=28
+
+found zhong duan 151pwm=28
+
+found zhong duan 149pwm=28
+
+found zhong duan 150pwm=28
+
+found zhong duan 150pwm=28
+
+found zhong duan 149pwm=26
+
+found zhong duan 147pwm=26
+
+found zhong duan 143pwm=26
+
+found zhong duan 142pwm=26
+
+found zhong duan 143pwm=26
+
+found zhong duan 142pwm=26
+
+found zhong duan 144pwm=26
+
+found zhong duan 145pwm=26
+
+found zhong duan 144pwm=26
+
+found zhong duan 144pwm=26
+
+found zhong duan 142pwm=24
+
+found zhong duan 139pwm=24
+
+found zhong duan 139pwm=24
+
+found zhong duan 140pwm=24
+
+found zhong duan 140pwm=24
+
+found zhong duan 139pwm=24
+
+found zhong duan 139pwm=24
+
+found zhong duan 137pwm=24
+
+found zhong duan 134pwm=24
+
+found zhong duan 134pwm=22
+
+found zhong duan 133pwm=22
+
+found zhong duan 131pwm=22
+
+found zhong duan 131pwm=22
+
+found zhong duan 131pwm=22
+
+found zhong duan 131pwm=22
+
+found zhong duan 133pwm=22
+
+found zhong duan 132pwm=22
+
+found zhong duan 130pwm=22
+
+found zhong duan 131pwm=22
+
+found zhong duan 130pwm=20
+
+found zhong duan 127pwm=20
+
+found zhong duan 125pwm=20
+
+found zhong duan 125pwm=20
+
+found zhong duan 123pwm=20
+
+found zhong duan 123pwm=20
+
+found zhong duan 125pwm=20
+
+found zhong duan 126pwm=20
+
+found zhong duan 127pwm=20
+
+found zhong duan 127pwm=20
+
+found zhong duan 126pwm=18
+
+found zhong duan 123pwm=18
+
+found zhong duan 122pwm=18
+
+found zhong duan 121pwm=18
+
+found zhong duan 122pwm=18
+
+found zhong duan 121pwm=18
+
+found zhong duan 121pwm=18
+
+found zhong duan 120pwm=18
+
+found zhong duan 121pwm=18
+
+found zhong duan 120pwm=16
+
+found zhong duan 117pwm=16
+
+found zhong duan 115pwm=16
+
+found zhong duan 115pwm=16
+
+found zhong duan 115pwm=16
+
+found zhong duan 115pwm=16
+
+found zhong duan 115pwm=16
+
+found zhong duan 116pwm=16
+
+found zhong duan 114pwm=16
+
+found zhong duan 111pwm=16
+
+found zhong duan 109pwm=14
+
+found zhong duan 106pwm=14
+
+found zhong duan 105pwm=14
+
+found zhong duan 103pwm=14
+
+found zhong duan 105pwm=14
+
+found zhong duan 103pwm=14
+
+found zhong duan 104pwm=14
+
+found zhong duan 105pwm=14
+
+found zhong duan 106pwm=14
+
+found zhong duan 107pwm=14
+
+found zhong duan 108pwm=12
+
+found zhong duan 104pwm=12
+
+found zhong duan 101pwm=12
+
+found zhong duan 100pwm=12
+
+found zhong duan 101pwm=12
+
+found zhong duan 102pwm=12
+
+found zhong duan 102pwm=12
+
+found zhong duan 102pwm=12
+
+found zhong duan 102pwm=12
+
+found zhong duan 101pwm=10
+
+found zhong duan 97pwm=10
+
+found zhong duan 97pwm=10
+
+found zhong duan 95pwm=10
+
+found zhong duan 94pwm=10
+
+found zhong duan 92pwm=10
+
+found zhong duan 92pwm=10
+
+found zhong duan 92pwm=10
+
+found zhong duan 91pwm=10
+
+found zhong duan 91pwm=10
+
+found zhong duan 91pwm=8
+
+found zhong duan 87pwm=8
+
+found zhong duan 85pwm=8
+
+found zhong duan 84pwm=8
+
+found zhong duan 84pwm=8
+
+found zhong duan 85pwm=8
+
+found zhong duan 86pwm=8
+
+found zhong duan 85pwm=8
+
+found zhong duan 83pwm=8
+
+found zhong duan 81pwm=6
+
+found zhong duan 77pwm=6
+
+found zhong duan 77pwm=6
+
+found zhong duan 74pwm=6
+
+found zhong duan 72pwm=6
+
+found zhong duan 70pwm=6
+
+found zhong duan 71pwm=6
+
+found zhong duan 71pwm=6
+
+found zhong duan 71pwm=6
+
+found zhong duan 71pwm=6
+
+found zhong duan 72pwm=4
+
+found zhong duan 69pwm=4
+
+found zhong duan 67pwm=4
+
+found zhong duan 66pwm=4
+
+found zhong duan 65pwm=4
+
+found zhong duan 64pwm=4
+
+found zhong duan 65pwm=4
+
+found zhong duan 65pwm=4
+
+found zhong duan 63pwm=4
+
+found zhong duan 61pwm=4
+
+found zhong duan 60pwm=2
+
+found zhong duan 57pwm=2
+
+found zhong duan 56pwm=2
+
+found zhong duan 57pwm=2
+
+found zhong duan 56pwm=2
+
+found zhong duan 57pwm=2
+
+found zhong duan 56pwm=2
+
+found zhong duan 55pwm=2
+
+found zhong duan 55pwm=2
+
+found zhong duan 54pwm=0
+
+found zhong duan 51pwm=0
+
+found zhong duan 46pwm=0
+
+found zhong duan 42pwm=0
+
+found zhong duan 39pwm=0
+
+found zhong duan 36pwm=0
+

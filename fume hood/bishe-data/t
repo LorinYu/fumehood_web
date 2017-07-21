@@ -1,0 +1,722 @@
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.280
+ki=0.000
+kd=0.000
+ speed = 25
+Standard=192.0
+pwm=21
+ speed = 92
+Standard=192.0
+pwm=21
+ speed = 137
+Standard=192.0
+pwm=21
+ speed = 163
+Standard=192.0
+pwm=21
+ speed = 177
+Standard=192.0
+pwm=21
+ speed = 186
+Standard=192.0
+pwm=21
+ speed = 188
+Standard=192.0
+pwm=21
+ speed = 192
+Standard=192.0
+pwm=21
+ speed = 192
+Standard=192.0
+pwm=21
+ speed = 188
+Standard=192.0
+pwm=21
+ speed = 185
+Standard=192.0
+Add=1.0 
+
+pwm=22
+ speed = 190
+Standard=212.0
+Add=4.0 
+
+pwm=26
+ speed = 196
+Standard=212.0
+Add=-2.0 
+
+pwm=24
+ speed = 203
+Standard=212.0
+Add=-2.0 
+
+pwm=22
+ speed = 202
+Standard=212.0
+Add=0.0 
+
+pwm=22
+ speed = 195
+Standard=212.0
+Add=2.0 
+
+pwm=24
+ speed = 193
+Standard=212.0
+Add=1.0 
+
+pwm=25
+ speed = 202
+Standard=212.0
+Add=-3.0 
+
+pwm=22
+ speed = 204
+Standard=212.0
+Add=-1.0 
+
+pwm=21
+ speed = 198
+Standard=212.0
+Add=2.0 
+
+pwm=23
+ speed = 193
+Standard=212.0
+Add=1.0 
+
+pwm=24
+ speed = 199
+Standard=212.0
+Add=-2.0 
+
+pwm=22
+ speed = 206
+Standard=212.0
+Add=-2.0 
+
+pwm=20
+ speed = 202
+Standard=212.0
+Add=1.0 
+
+pwm=21
+ speed = 197
+>>>  speed = 85
+ speed = 0
+ speed = 0
+ speed = 0
+ speed = 0
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.280
+ki=0.000
+kd=0.000
+ speed = 29
+Standard=192.0
+pwm=21
+ speed = 96
+Standard=192.0
+pwm=21
+ speed = 142
+Standard=192.0
+pwm=21
+ speed = 165
+Standard=192.0
+pwm=21
+ speed = 177
+Standard=192.0
+pwm=21
+ speed = 185
+Standard=192.0
+pwm=21
+ speed = 189
+Standard=192.0
+pwm=21
+ speed = 188
+Standard=192.0
+pwm=21
+ speed = 187
+Standard=192.0
+Add=0.0 
+
+pwm=21
+ speed = 185
+Standard=213.0
+Add=6.0 
+
+pwm=27
+ speed = 190
+Standard=213.0
+Add=-1.0 
+
+pwm=26
+ speed = 208
+Standard=213.0
+Add=-5.0 
+
+pwm=21
+ speed = 211
+Standard=213.0
+pwm=21
+ speed = 202
+Standard=213.0
+Add=3.0 
+
+pwm=24
+ speed = 203
+Standard=213.0
+Add=0.0 
+
+pwm=24
+ speed = 209
+Standard=213.0
+pwm=24
+ speed = 210
+Standard=213.0
+pwm=24
+ speed = 209
+Standard=213.0
+pwm=24
+ speed = 208
+Standard=213.0
+Add=0.0 
+
+pwm=24
+ speed = 206
+>>> 
+ speed = 0
+ spePython 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.280
+ki=0.050
+kd=0.050
+ speed = 10
+Standard=192.0
+pwm=21
+ speed = 78
+Standard=192.0
+pwm=21
+ speed = 132
+Standard=192.0
+pwm=21
+ speed = 163
+Standard=192.0
+pwm=21
+ speed = 177
+Standard=192.0
+pwm=21
+ speed = 183
+Standard=192.0
+pwm=21
+ speed = 186
+Standard=192.0
+pwm=21
+ speed = 189
+Standard=192.0
+pwm=21
+ speed = 190
+Standard=192.0
+pwm=21
+ speed = 190
+Standard=192.0
+pwm=21
+ speed = 191
+Standard=192.0
+pwm=21
+ speed = 189
+Standard=192.0
+pwm=21
+ speed = 188
+Standard=192.0
+pwm=21
+ speed = 190
+Standard=192.0
+pwm=21
+ speed = 189
+Standard=192.0
+pwm=21
+ speed = 189
+Standard=192.0
+pwm=21
+ speed = 187
+Standard=192.0
+Add=1.0 
+
+pwm=22
+ speed = 193
+Standard=213.0
+Add=6.0 
+
+pwm=28
+ speed = 202
+Standard=213.0
+Add=-3.0 
+
+pwm=25
+ speed = 212
+Standard=213.0
+pwm=25
+ speed = 209
+Standard=213.0
+pwm=25
+ speed = 212
+Standard=213.0
+pwm=25
+ speed = 212
+Standard=213.0
+pwm=25
+ speed = 211
+Standard=213.0
+pwm=25
+ speed = 211
+Standard=213.0
+pwm=25
+>>>  speed = 180
+ speed = 0
+ speed = 0
+ed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.300
+ki=0.050
+kd=0.050
+ speed = 8
+Standard=192.0
+pwm=21
+ speed = 78
+Standard=192.0
+pwm=21
+ speed = 132
+Standard=192.0
+pwm=21
+ speed = 163
+Standard=192.0
+pwm=21
+ speed = 176
+Standard=192.0
+pwm=21
+ speed = 185
+Standard=192.0
+pwm=21
+ speed = 190
+Standard=192.0
+pwm=21
+ speed = 187
+Standard=192.0
+pwm=21
+ speed = 187
+Standard=192.0
+Add=0.0 
+
+pwm=21
+ speed = 188
+Standard=213.0
+Add=8.0 
+
+pwm=29
+ speed = 200
+Standard=213.0
+Add=-5.0 
+
+pwm=24
+ speed = 210
+Standard=213.0
+pwm=24
+ speed = 206
+Standard=213.0
+Add=2.0 
+
+pwm=26
+ speed = 204
+Standard=213.0
+Add=1.0 
+
+pwm=27
+ speed = 209
+Standard=213.0
+pwm=27
+ speed = 213
+Standard=213.0
+pwm=27
+ speed = 216
+Standard=213.0
+pwm=27
+ speed = 213
+Standard=213.0
+pwm=27
+ speed = 212
+Standard=213.0
+pwm=27
+ speed = 214
+Standard=213.0
+pwm=27
+>>>  speed = 178
+ speed = 0
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.280
+ki=0.050
+kd=0.030
+ speed = 8
+Standard=192.0
+pwm=21
+ speed = 79
+Standard=192.0
+pwm=21
+ speed = 132
+Standard=192.0
+pwm=21
+ speed = 163
+Standard=192.0
+pwm=21
+ speed = 178
+Standard=192.0
+pwm=21
+ speed = 187
+Standard=192.0
+pwm=21
+ speed = 189
+Standard=192.0
+pwm=21
+ speed = 188
+Standard=192.0
+pwm=21
+ speed = 187
+Standard=192.0
+Add=1.0 
+
+pwm=22
+ speed = 190
+Standard=213.0
+Add=7.0 
+
+pwm=29
+ speed = 201
+Standard=213.0
+Add=-3.0 
+
+pwm=26
+ speed = 214
+Standard=213.0
+pwm=26
+ speed = 209
+Standard=213.0
+pwm=26
+ speed = 215
+Standard=213.0
+pwm=26
+ speed = 213
+Standard=213.0
+pwm=26
+ speed = 212
+>>>  speed = 64
+ speed = 0
+ speed = 0
+ speedPython 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.350
+ki=0.080
+kd=0.080
+ speed = 37
+Standard=192.0
+pwm=21
+ speed = 103
+Standard=192.0
+pwm=21
+ speed = 147
+Standard=192.0
+pwm=21
+ speed = 170
+Standard=192.0
+pwm=21
+ speed = 182
+Standard=192.0
+pwm=21
+ speed = 186
+Standard=192.0
+pwm=21
+ speed = 188
+Standard=192.0
+pwm=21
+ speed = 190
+Standard=192.0
+pwm=21
+ speed = 191
+Standard=192.0
+pwm=21
+ speed = 191
+Standard=192.0
+pwm=21
+ speed = 190
+Standard=192.0
+pwm=21
+ speed = 190
+Standard=192.0
+pwm=21
+ speed = 189
+Standard=192.0
+pwm=21
+ speed = 186
+Standard=192.0
+Add=2.0 
+
+pwm=23
+ speed = 191
+Standard=213.0
+Add=8.0 
+
+pwm=31
+ speed = 208
+Standard=213.0
+Add=-8.0 
+
+pwm=23
+ speed = 218
+Standard=213.0
+Add=-3.0 
+
+pwm=20
+ speed = 205
+Standard=213.0
+Add=7.0 
+
+pwm=27
+ speed = 200
+Standard=213.0
+Add=2.0 
+
+pwm=29
+ speed = 213
+Standard=213.0
+pwm=29
+ speed = 226
+Standard=213.0
+Add=-6.0 
+
+pwm=23
+ speed = 227
+Standard=213.0
+Add=-1.0 
+
+pwm=22
+ speed = 208
+>>>  speed = 91
+ speed = 0
+ speed = 0
+ = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.400
+ki=0.050
+kd=0.050
+ speed = 32
+Standard=192.0
+pwm=21
+ speed = 96
+Standard=192.0
+pwm=21
+ speed = 144
+Standard=192.0
+pwm=21
+ speed = 167
+Standard=192.0
+pwm=21
+ speed = 180
+Standard=192.0
+pwm=21
+ speed = 188
+Standard=192.0
+pwm=21
+ speed = 190
+Standard=192.0
+pwm=21
+ speed = 191
+Standard=192.0
+pwm=21
+ speed = 191
+Standard=192.0
+pwm=21
+ speed = 191
+Standard=192.0
+pwm=21
+ speed = 189
+Standard=192.0
+pwm=21
+ speed = 189
+Standard=192.0
+pwm=21
+ speed = 190
+Standard=192.0
+pwm=21
+ speed = 191
+Standard=192.0
+pwm=21
+ speed = 192
+Standard=192.0
+pwm=21
+ speed = 190
+Standard=192.0
+pwm=21
+ speed = 190
+Standard=192.0
+pwm=21
+ speed = 189
+Standard=192.0
+pwm=21
+ speed = 189
+Standard=192.0
+pwm=21
+ speed = 186
+Standard=192.0
+Add=2.0 
+
+pwm=23
+ speed = 192
+Standard=213.0
+Add=8.0 
+
+pwm=31
+ speed = 211
+Standard=213.0
+pwm=31
+ speed = 229
+Standard=213.0
+Add=-8.0 
+
+pwm=23
+ speed = 225
+Standard=213.0
+Add=2.0 
+
+pwm=25
+ speed = 211
+Standard=213.0
+pwm=25
+ speed = 208
+Standard=213.0
+Add=1.0 
+
+pwm=26
+ speed = 213
+Standard=213.0
+pwm=26
+ speed = 214
+Standard=213.0
+pwm=26
+ speed = 214
+Standard=213.0
+pwm=26
+ speed = 213
+Standard=213.0
+pwm=26
+ speed = 214
+Standard=213.0
+pwm=26
+>>>  speed = 179
+ speed = 0
+ speed = 0
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.280
+ki=0.050
+kd=0.050
+ speed = 9
+Standard=192.0
+pwm=21
+ speed = 80
+Standard=192.0
+pwm=21
+ speed = 132
+Standard=192.0
+pwm=21
+ speed = 162
+Standard=192.0
+pwm=21
+ speed = 177
+Standard=192.0
+pwm=21
+ speed = 183
+Standard=192.0
+pwm=21
+ speed = 187
+Standard=192.0
+pwm=21
+ speed = 187
+Standard=192.0
+pwm=21
+ speed = 188
+Standard=192.0
+pwm=21
+ speed = 190
+Standard=192.0
+pwm=21
+ speed = 187
+Standard=192.0
+Add=1.0 
+
+pwm=22
+ speed = 191
+Standard=213.0
+Add=7.0 
+
+pwm=29
+ speed = 206
+Standard=213.0
+Add=-5.0 
+
+pwm=24
+ speed = 216
+Standard=213.0
+pwm=24
+ speed = 210
+Standard=213.0
+pwm=24
+ speed = 208
+Standard=213.0
+Add=1.0 
+
+pwm=25
+ speed = 210
+Standard=213.0
+pwm=25
+ speed = 214
+Standard=213.0
+pwm=25
+ speed = 216
+Standard=213.0
+pwm=25
+>>>  speed = 163
+ speed = 0
+ speed = 0
+

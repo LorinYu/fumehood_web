@@ -1,0 +1,2125 @@
+[ 2017-06-25T09:24:06+08:00 ] ::1 /project1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.016001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.058004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.058004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:24:12+08:00 ] ::1 /project1/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0410s ]
+SQL: SELECT `user_password` FROM `user` WHERE `user_name` = 'admin' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T09:24:12+08:00 ] ::1 /project1/index.php/Home/Index/machine.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `machine` [ RunTime:0.0230s ]
+SQL: SELECT * FROM `machine`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\41b192d2d62aef6b11348b355d64ab16.php 第 25 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\41b192d2d62aef6b11348b355d64ab16.php 第 32 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\41b192d2d62aef6b11348b355d64ab16.php 第 61 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:24:14+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:24:14+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0320s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-25T09:27:33+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:27:34+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-25T09:27:50+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:27:50+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0270s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-25T09:30:12+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:30:13+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-25T09:30:13+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-25T09:30:14+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-25T09:30:15+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:30:16+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0070s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-25T09:30:39+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:30:40+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0140s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-25T09:30:40+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:30:41+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0080s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-25T09:30:42+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-25T09:30:42+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0040s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-25T09:30:44+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:30:44+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0050s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ORDER BY id desc LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT * FROM `data` WHERE ( machine_id= ) ORDER BY id desc LIMIT 1  
+
+[ 2017-06-25T09:47:25+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:47:26+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T09:47:28+08:00 ] 127.0.0.1 /project1/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:47:28+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:47:28+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0380s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T09:47:41+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:47:41+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T09:47:42+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-06-25T09:47:42+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-25T09:47:43+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:47:43+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T09:47:44+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:47:44+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T09:47:46+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:47:46+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T09:47:48+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:47:48+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T09:49:22+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:49:22+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T09:49:24+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T09:49:24+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0040s ]
+
+[ 2017-06-25T10:04:00+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:04:00+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:04:02+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:04:03+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0030s ]
+
+[ 2017-06-25T10:04:50+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:04:51+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:04:53+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:04:53+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:04:54+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:04:54+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:05:00+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:05:00+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:07:37+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-25T10:07:38+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0450s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\project1\Application\Home\Controller\IndexController.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:07:40+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:07:40+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\project1\Application\Home\Controller\IndexController.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:07:43+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:07:43+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\project1\Application\Home\Controller\IndexController.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:08:44+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:08:45+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\project1\Application\Home\Controller\IndexController.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:08:47+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:08:47+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\project1\Application\Home\Controller\IndexController.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-25T10:09:15+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:09:15+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\project1\Application\Home\Controller\IndexController.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:09:17+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-25T10:09:17+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\project1\Application\Home\Controller\IndexController.class.php 第 47 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-06-25T10:18:45+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:18:46+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pics D:\phpStudy\WWW\project1\Application\Home\Controller\IndexController.class.php 第 47 行.
+
+[ 2017-06-25T10:18:48+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:18:48+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: pics D:\phpStudy\WWW\project1\Application\Home\Controller\IndexController.class.php 第 47 行.
+
+[ 2017-06-25T10:18:50+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-06-25T10:18:50+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: pics D:\phpStudy\WWW\project1\Application\Home\Controller\IndexController.class.php 第 47 行.
+
+[ 2017-06-25T10:19:20+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:19:21+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:19:22+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-25T10:19:22+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-25T10:19:24+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-25T10:19:24+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:19:26+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-25T10:19:26+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:19:28+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:19:28+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:19:41+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+
+[ 2017-06-25T10:19:41+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:19:43+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-25T10:19:43+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2017-06-25T10:19:44+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:19:44+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:19:45+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-06-25T10:19:45+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:20:04+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:20:05+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-25T10:20:41+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-06-25T10:20:41+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-25T10:21:32+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:21:33+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-06-25T10:21:35+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-06-25T10:21:35+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:21:38+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:21:38+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2017-06-25T10:21:41+08:00 ] ::1 /project1/index.php/home/index/data/machine_id/2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 43 行.
+NOTIC: [8] Undefined variable: username D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 50 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 178 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 179 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 180 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 181 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 200 行.
+NOTIC: [8] Undefined variable: data D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 206 行.
+NOTIC: [8] Undefined variable: _page D:\phpStudy\WWW\project1\Application\Runtime\Cache\Home\4c619b7abef6e99f30be44706da11172.php 第 226 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-06-25T10:21:41+08:00 ] ::1 /project1/index.php/Home/Index/getdata.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `data` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `data` WHERE ( machine_id=2 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0010s ]
+

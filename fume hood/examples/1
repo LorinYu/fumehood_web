@@ -1,0 +1,730 @@
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>>wu chai chongxin  ji  suan
+kp=0.6
+Start highth=50.1
+found zhong duan 81Now highth=50.1
+
+Standard=214.4
+pwm=50
+found zhong duan 217Now highth=49.7
+
+Standard=212.7
+pwm=50
+found zhong duan 268
+Now highth=49.8
+Standard=212.8
+pwm=50
+found zhong duan 281
+Now highth=49.7
+Standard=212.7
+pwm=50
+found zhong duan 285
+Now highth=49.7
+Standard=212.7
+Add=-6.0
+pwm=44
+found zhong duan 272
+Now highth=49.7
+Standard=212.7
+Add=6.0
+pwm=50
+found zhong duan 280
+Now highth=50.2
+Standard=214.6
+Add=-9.0
+pwm=40
+found zhong duan 264
+Now highth=50.1
+Standard=214.3
+Add=8.0
+pwm=49
+found zhong duan 269
+Now highth=50.2
+Standard=214.6
+Add=-7.0
+pwm=42
+found zhong duan 268
+Now highth=49.8
+Standard=213.0
+Add=-2.0
+pwm=40
+found zhong duan 263
+Now highth=50.1
+Standard=214.4
+Add=1.0
+pwm=41
+found zhong duan 260
+Now highth=49.7
+Standard=212.8
+Add=-1.0
+pwm=40
+found zhong duan 257
+Now highth=50.2
+Standard=214.7
+Add=0.0
+pwm=40
+found zhong duan 256
+Now highth=49.8
+Standard=212.9
+Add=-2.0
+pwm=38
+found zhong duan 256
+Now highth=50.2
+Standard=214.6
+Add=-2.0
+pwm=36
+found zhong duan 252
+Now highth=49.8
+Standard=212.9
+Add=1.0
+pwm=37
+found zhong duan 244
+Now highth=49.8
+Standard=212.8
+Add=3.0
+pwm=40
+found zhong duan 244
+Now highth=49.7
+Standard=212.8
+Add=-2.0
+pwm=38
+found zhong duan 255
+Now highth=50.1
+Standard=214.4
+Add=-9.0
+pwm=29
+found zhong duan 251
+Now highth=50.1
+Standard=214.4
+Add=1.0
+pwm=30
+found zhong duan 229
+Now highth=50.1
+Standard=214.4
+Add=13.0
+pwm=44
+found zhong duan 221
+Now highth=50.1
+Standard=214.4
+Add=4.0
+pwm=47
+found zhong duan 256
+Now highth=50.1
+Standard=214.4
+Add=-25.0
+pwm=22
+found zhong duan 277
+Now highth=49.7
+Standard=212.6
+Add=-15.0
+pwm=7
+found zhong duan 218
+Now highth=49.7
+Standard=212.6
+Add=39.0
+pwm=46
+found zhong duan 169
+Now highth=49.7found zhong duan 208
+
+Standard=212.7
+Add=4.0
+pwm=50
+found zhong duan 268Now highth=50.1
+
+Standard=214.2
+Add=-42.0
+pwm=7
+found zhong duan 204
+Now highth=49.7
+Standard=212.7
+Add=45.0
+pwm=50
+found zhong duan 210
+Now highth=50.1
+Standard=214.3
+Add=-7.0
+pwm=43
+found zhong duan 249
+Now highth=50.6
+Standard=216.2
+Add=-27.0
+pwm=16
+found zhong duan 220
+Now highth=50.1
+Standard=214.3
+Add=21.0
+pwm=36
+found zhong duan 189
+Now highth=50.1
+Standard=214.4
+Add=20.0
+pwm=50
+found zhong duan 244
+Now highth=49.7
+Standard=212.6
+Add=-39.0
+pwm=11
+found zhong duan 254
+
+
+
+
+
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.40
+ki=0.05
+kd=0.05
+pwm=50
+found zhong duan 290
+Now highth=49.6
+Standard=212.2
+pwm=50
+found zhong duan 289
+Now highth=50.0
+Standard=213.8
+Add=-3.0
+pwm=47
+found zhong duan 280
+Now highth=50.0
+Standard=213.8
+Add=1.0
+pwm=48
+found zhong duan 280
+Now highth=50.0
+Standard=213.9
+Add=-4.0
+pwm=44
+found zhong duan 271
+Now highth=49.7
+Standard=212.4
+Add=1.0
+pwm=45
+found zhong duan 270
+Now highth=50.0
+Standard=213.9
+Add=-3.0
+pwm=42
+found zhong duan 269
+Now highth=50.0
+Standard=213.9
+Add=-2.0
+pwm=40
+found zhong duan 265
+Now highth=49.7
+Standard=212.4
+Add=-1.0
+pwm=39
+found zhong duan 262
+Now highth=49.6
+Standard=212.3
+Add=-1.0
+pwm=38
+found zhong duan 257
+Now highth=50.0
+Standard=213.9
+Add=0.0
+pwm=38
+found zhong duan 252
+Now highth=50.0
+Standard=213.9
+Add=0.0
+pwm=38
+found zhong duan 251
+Now highth=50.0
+Standard=214.0
+Add=-2.0
+pwm=36
+found zhong duan 249
+Now highth=50.0
+Standard=214.0
+Add=-1.0
+pwm=35
+found zhong duan 246
+Now highth=50.5
+Standard=215.8
+Add=0.0
+pwm=35
+found zhong duan 243
+Now highth=49.7
+Standard=212.5
+Add=0.0
+pwm=35
+found zhong duan 239
+Now highth=50.0
+Standard=214.0
+Add=0.0
+pwm=35
+found zhong duan 237
+Now highth=50.0
+Standard=213.9
+Add=0.0
+pwm=34
+found zhong duan 240
+Now highth=50.0
+Standard=213.9
+Add=-3.0
+pwm=32
+found zhong duan 241
+Now highth=50.0
+Standard=213.8
+Add=-2.0
+pwm=30
+found zhong duan 232
+Now highth=50.0
+Standard=213.9
+Add=3.0
+pwm=33
+found zhong duan 225
+Now highth=50.0
+Standard=213.8
+Add=2.0
+pwm=35
+found zhong duan 233
+Now highth=50.0
+Standard=213.9
+Add=-5.0
+pwm=30
+found zhong duan 244
+Now highth=50.0
+Standard=213.9
+Add=-6.0
+pwm=24
+found zhong duan 232
+Now highth=50.0
+Standard=213.8
+Add=5.0
+pwm=29
+found zhong duan 214
+Now highth=50.0
+Standard=214.0
+pwm=29
+found zhong duan 213
+Now highth=50.0
+Standard=214.0
+pwm=29
+found zhong duan 213
+Now highth=50.0found zhong duan 217
+
+Standard=213.8
+pwm=29
+found zhong duan 216Now highth=50.0
+
+Standard=213.9
+pwm=29
+found zhong duan 215Now highth=50.0
+
+Standard=213.9
+pwm=29
+found zhong duan 212
+Now highth=50.0
+Standard=213.8
+pwm=29
+found zhong duan 214
+Now highth=49.6
+Standard=212.2
+pwm=29
+found zhong duan 218
+Now highth=50.0
+Standard=213.9
+Add=-2.0
+pwm=28
+found zhong duan 215
+Now highth=48.2
+Standard=206.0
+Add=1.0
+pwm=29
+found zhong duan 209
+Now highth=49.6
+Standard=212.3
+pwm=29
+found zhong duan 212
+Now highth=49.6
+Standard=212.2
+pwm=29
+found zhong duan 212
+Now highth=50.0
+Standard=213.8
+pwm=29
+found zhong duan 216
+Now highth=50.0
+Standard=213.6
+pwm=29
+found zhong duan 217
+Now highth=49.6
+Standard=212.0
+Add=0.0
+pwm=28
+found zhong duan 213
+Now highth=50.0
+Standard=213.9
+pwm=28
+found zhong duan 212
+Now highth=49.6
+Standard=212.2
+pwm=28
+found zhong duan 211
+Now highth=49.6
+Standard=212.2
+pwm=28
+found zhong duan 215
+Now highth=49.6
+Standard=212.2
+pwm=28
+found zhong duan 216
+Now highth=49.6
+Standard=212.2
+pwm=28
+found zhong duan 214
+Now highth=49.6
+Standard=212.0
+pwm=28
+found zhong duan 213
+Now highth=49.6
+Standard=212.0
+pwm=28
+found zhong duan 216
+Now highth=50.0
+Standard=213.8
+pwm=28
+found zhong duan 215
+Now highth=50.0
+Standard=213.9
+pwm=28
+found zhong duan 212
+Now highth=49.3
+Standard=210.6
+pwm=28
+found zhong duan 211
+
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.50
+ki=0.05
+kd=0.05
+found zhong duan 73
+Now highth=50.2
+Standard=214.8
+pwm=50
+found zhong duan 207
+Now highth=49.8
+Standard=213.1
+pwm=50
+found zhong duan 276
+Now highth=50.2
+Standard=214.8
+pwm=50
+found zhong duan 291
+Now highth=49.8
+Standard=213.1
+pwm=50
+found zhong duan 287
+Now highth=50.2
+Standard=214.8
+Add=-1.0
+pwm=49
+found zhong duan 282
+Now highth=49.8
+Standard=213.1
+Add=-1.0
+pwm=48
+found zhong duan 280
+Now highth=50.2
+Standard=214.9
+Add=-2.0
+pwm=46
+found zhong duan 270
+Now highth=50.2
+Standard=214.8
+Add=3.0
+pwm=48
+found zhong duan 277
+Now highth=50.2
+Standard=214.7
+Add=-7.0
+pwm=41
+found zhong duan 271
+Now highth=50.2
+Standard=214.9
+Add=1.0
+pwm=42
+found zhong duan 266
+Now highth=50.2
+Standard=214.7
+Add=0.0
+pwm=41
+found zhong duan 264
+Now highth=50.2
+Standard=214.8
+Add=-2.0
+pwm=40
+found zhong duan 258
+Now highth=50.3
+Standard=214.9
+Add=1.0
+pwm=41
+found zhong duan 258
+Now highth=50.2
+Standard=214.7
+Add=-2.0
+pwm=38
+found zhong duan 262
+Now highth=50.3
+Standard=214.9
+Add=-5.0
+pwm=34
+found zhong duan 256
+Now highth=50.2
+Standard=214.7
+Add=1.0
+pwm=35
+found zhong duan 241
+Now highth=50.2
+Standard=214.9
+Add=7.0
+pwm=42
+found zhong duan 246
+Now highth=50.3
+Standard=215.0
+Add=-5.0
+pwm=37
+found zhong duan 265
+Now highth=50.2
+Standard=214.9
+Add=-13.0
+pwm=24
+found zhong duan 253
+Now highth=50.2
+Standard=214.6
+Add=6.0
+pwm=30
+found zhong duan 216
+Now highth=49.8
+Standard=212.9
+pwm=30
+found zhong duan 213
+Now highth=49.8
+Standard=213.0
+pwm=30
+found zhong duan 216
+Now highth=49.8
+Standard=213.0
+pwm=30
+found zhong duan 221
+Now highth=49.8
+Standard=212.9
+Add=-3.0
+pwm=27
+found zhong duan 225
+Now highth=50.2
+Standard=214.7
+Add=-2.0
+pwm=24
+found zhong duan 218
+Now highth=50.2
+Standard=214.6
+pwm=24
+found zhong duan 204
+Now highth=50.2found zhong duan 184
+
+Python 3.4.2 (default, Oct 19 2014, 13:31:11) 
+[GCC 4.9.1] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+kp=0.50
+ki=0.05
+kd=0.05
+found zhong duan 278
+Now highth=49.8
+Standard=212.9
+pwm=50
+found zhong duan 289
+Now highth=50.6
+
+Standard=216.5
+pwm=50
+found zhong duan 292
+Now highth=49.8
+Standard=213.1
+Add=-7.0
+pwm=42
+found zhong duan 268
+Now highth=50.2
+Standard=214.6
+Add=12.0
+pwm=50
+found zhong duan 280
+Now highth=50.2
+Standard=214.7
+Add=-11.0
+pwm=38
+found zhong duan 261
+Now highth=50.2
+Standard=214.6
+Add=9.0
+pwm=47
+found zhong duan 273
+Now highth=50.2
+Standard=214.7
+Add=-10.0
+pwm=37
+found zhong duan 257
+Now highth=50.4
+Standard=215.3
+Add=8.0
+pwm=44
+found zhong duan 256
+Now highth=50.2
+Standard=214.9
+Add=-3.0
+pwm=42
+found zhong duan 263
+Now highth=50.2
+Standard=214.8
+Add=-6.0
+pwm=35
+found zhong duan 261
+Now highth=50.2
+Standard=214.5
+Add=-1.0
+pwm=34
+found zhong duan 251
+Now highth=50.2
+Standard=214.6
+Add=4.0
+pwm=38
+found zhong duan 239
+Now highth=50.2
+Standard=214.7
+Add=5.0
+pwm=43
+found zhong duan 251
+Now highth=50.2
+Standard=214.8
+Add=-9.0
+pwm=34
+found zhong duan 269
+Now highth=50.2
+Standard=214.7
+Add=-12.0
+pwm=22
+found zhong duan 249
+Now highth=50.2
+Standard=214.5
+Add=10.0
+pwm=32
+found zhong duan 207
+Now highth=50.2
+Standard=214.8
+Add=23.0
+pwm=50
+found zhong duan 216
+Now highth=50.2
+Standard=214.7
+pwm=50
+found zhong duan 274
+Now highth=50.2
+Standard=214.8
+Add=-34.0
+pwm=15
+found zhong duan 290
+Now highth=49.8
+Standard=213.0
+Add=-11.0
+pwm=4
+found zhong duan 209
+Now highth=50.2
+Standard=214.7
+Add=47.0
+pwm=50
+found zhong duan 157
+Now highth=50.2found zhong duan 214
+
+Standard=214.8
+pwm=50
+found zhong duan 270
+Now highth=50.2
+Standard=214.7
+Add=-33.0
+pwm=16
+found zhong duan 223
+Now highth=50.2
+Standard=214.6
+Add=28.0
+pwm=44
+found zhong duan 233
+Now highth=50.2
+Standard=214.6
+Add=-9.0
+pwm=36
+found zhong duan 244
+Now highth=50.2
+Standard=214.5
+Add=-7.0
+pwm=28
+found zhong duan 228
+Now highth=49.8
+Standard=212.8
+Add=8.0
+pwm=36
+found zhong duan 223
+Now highth=50.2
+Standard=214.7
+Add=3.0
+pwm=39
+found zhong duan 242
+Now highth=50.2
+Standard=214.6
+Add=-12.0
+pwm=27
+found zhong duan 238
+Now highth=50.2
+Standard=214.5
+Add=2.0
+pwm=29
+found zhong duan 218
+Now highth=50.2
+Standard=214.6
+pwm=29
+found zhong duan 216
+Now highth=50.2
+Standard=214.7
+pwm=29
+found zhong duan 215
+Now highth=50.2
+Standard=214.7
+pwm=29
+found zhong duan 216
+Now highth=49.8
+Standard=212.9
+pwm=29
+found zhong duan 216
+Now highth=50.2
+Standard=214.5
+pwm=29
+found zhong duan 218
+Now highth=50.1
+Standard=214.4
+pwm=29
+found zhong duan 218
+>>> found zhong duan 105
+found zhong duan 0
+found zhong duan 0
+found zhong duan 0
+found zhong duan 0
+found zhong duan 0
+found zhong duan 0
+found zhong duan 0
+found zhong duan 0
+found zhong duan 0
+

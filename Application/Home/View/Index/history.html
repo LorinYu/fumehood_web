@@ -1,0 +1,43 @@
+<extend name="base" />
+<block name="jsinhead">         
+        <link href="__PUBLIC__/zui.datatable.min.css" rel="stylesheet">
+        <script src="__PUBLIC__/zui.datatable.min.js"></script>
+</block>
+<block name="container">
+                <div class="container">
+                        <!--<div class="panel" style="margin-top: 5px;">
+                        <div class="panel-heading" style="font-size: 16px;margin-bottom: 20px;">
+                                系统控制
+                        </div>
+                        <div class="panel-body">-->
+                                <table class="table datatable">
+                                        <thead>
+                                                <tr>
+                                                        <th>序号</th>
+                                                        <th>通风柜</th>
+                                                        <th>开始时间</th>
+                                                        <th>使用时长</th>
+                                                </tr>
+                                        </thead>
+                                        <tbody>
+                                                <volist name="data" id="vo">
+                                                        <tr>
+                                                                <td>{$vo.id}</td>
+                                                                <td>{$vo.machine_name}</td>
+                                                                <td>{$vo.start_time|date='Y-m-d H:i:s',###}</td>
+                                                                <td>{$vo.period}</td>
+                                                        </tr>
+                                                </volist>
+                                        </tbody>
+                                </table>
+                      <!--  </div>-->
+                </div>
+</block>
+<block name="jsinbody">
+                        <script>
+                        $(function(){
+                                $('table.datatable').datatable({sortable: true,checkable: true});
+                                $("#li2").addClass("active");  
+                        });
+                        </script>
+                </block>

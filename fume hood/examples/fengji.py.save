@@ -1,0 +1,33 @@
+import RPi.GPIO as GPIO
+import time
+count=0
+scount=0
+pwm=35
+def Baifenbi():
+        if count<pwm*2:
+            GPIO.output(36,0)
+        else:
+            GPIO.output(36,1)
+def checkzero(self):
+        global count
+        count=count+1
+        if count>=100
+            count=0
+GPIO.setwarnings(False)
+GPIO.setmode(GPIO.BOARD)
+GPIO.setup(37,GPIO.IN,pull_up_down=GPIO.PUD_UP)
+GPIO.setuo(36,GPIO.OUTPUT)
+print("waiting 1 seconds")
+time.sleep(1)
+try:
+    GPIO.add_event_detect(37,GPIO.FALLING,callback=checkzero)
+    GPIO.output(36,1)
+    while True:
+       
+        
+except KeyboardInterrupt:
+    GPIO.cleanup()
+
+
+
+    
